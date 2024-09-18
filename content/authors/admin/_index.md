@@ -3,7 +3,7 @@
 title: 윤혜민
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hyemin-Youn
 
 # Full name (for SEO)
 first_name: Shiung Wu
