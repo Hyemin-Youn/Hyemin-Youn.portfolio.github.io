@@ -10,8 +10,8 @@ first_name: Hyemin
 last_name: Youn
 
 # Status emoji
-status::smiley:
-  icon: ☕️
+status:
+  icon: :smiley:
 
 # Is this the primary user of the site?
 superuser: true
