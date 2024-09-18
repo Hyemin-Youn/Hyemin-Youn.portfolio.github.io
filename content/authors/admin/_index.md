@@ -6,11 +6,11 @@ title: 윤혜민
 name_pronunciation: Hyemin-Youn
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hyemin
+last_name: Youn
 
 # Status emoji
-status:
+status::smiley:
   icon: ☕️
 
 # Is this the primary user of the site?
