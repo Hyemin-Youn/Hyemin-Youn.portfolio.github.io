@@ -11,7 +11,7 @@ last_name: Youn
 
 # Status emoji
 status:
-  icon: :smiley:
+  icon: 😃
 
 # Is this the primary user of the site?
 superuser: true
