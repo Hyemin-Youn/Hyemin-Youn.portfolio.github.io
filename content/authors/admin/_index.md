@@ -38,37 +38,41 @@ profiles:
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Engineering
+    institution: Jeonbuk Natinal University
+    date_start: 2023-03-02
+    date_end: 2024-09(~ing)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Computer Engineering is my second major. I am doing double major in Jeonbuk National University. I want to be a DBA engineer in the future.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'JBNU SCAI'
+      url: 'https://csai.jbnu.ac.kr/csai/index.do'
+  - area: Political Science and Diplomacy
+    institution: Jeonbuk National University
+    date_start: 2021-03-02
+    date_end: 2024-09(~ing)
     summary: |
-      GPA: 3.8/4.0
+      I entered university in major of political science and diplomacy having a dream to be a diplomat. I was so touched by Niccolo Machiavelli after reading <The Prince>.
+    button:
+      text: 'JBNU POL'
+      url: 'https://pol.jbnu.ac.kr/pol/index.do'
+  
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
