@@ -90,29 +90,29 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 60
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: C++
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/c++
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Listening to music
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Playing a guitar
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
         icon: cat
-      - name: Photography
+      - name: Traveling
         description: ''
         percent: 80
         icon: camera
