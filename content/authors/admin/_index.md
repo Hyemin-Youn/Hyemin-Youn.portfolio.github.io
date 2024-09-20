@@ -60,29 +60,20 @@ education:
 
  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: COMMENTO JOB BOOT CAMP -BIG DATA
+    company_name: commento
+    company_url: 'https://comento.kr/?index'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-07-04
+    date_end: 2027-08-04
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Calculating budget of using RDBMS.
+      - Designing ERD, transfering datas and using MongoDB.
+      -Finding errors among database.
+    button:
+      text: 'Certificate'
+      url: 'file:///C:/Users/%EC%82%BC%EC%84%B1%EB%85%B8%ED%8A%B8%EB%B6%81/Downloads/%EC%A7%81%EB%AC%B4%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EC%88%98%EB%A3%8C%EC%A6%9D%20(1).pdf'
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -118,11 +109,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
+  - name: English 
     percent: 75
-  - name: Portuguese
+  - name: Chinese
     percent: 25
 
 # Awards.
