@@ -73,7 +73,7 @@ work:
       -Finding errors among database.
     button:
       text: 'Certificate'
-      url: 'file:///C:/Users/%EC%82%BC%EC%84%B1%EB%85%B8%ED%8A%B8%EB%B6%81/Downloads/%EC%A7%81%EB%AC%B4%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EC%88%98%EB%A3%8C%EC%A6%9D%20(1).pdf'
+      url: 'C:\Users\삼성노트북\Desktop\OSS24-2\Hyemin-Youn.github.io\content\authors\admin\코멘토직무부트캠프 수료증.png'
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
