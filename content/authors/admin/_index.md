@@ -64,7 +64,7 @@ work:
     company_name: comento
     company_url: 'https://comento.kr/?index'
     company_logo: ''
-    date_start: 2024-07-04
+    date_start: 2024-07-07
     date_end: 2027-08-04
     summary: |2-
       Responsibilities include:
