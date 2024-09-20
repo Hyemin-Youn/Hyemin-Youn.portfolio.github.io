@@ -41,7 +41,7 @@ education:
   - area: Computer Engineering
     institution: Jeonbuk Natinal University
     date_start: 2023-03-02
-    date_end: 2024-09(~ing)
+    date_end: 2025-08-31
     summary: |
       Computer Engineering is my second major. I am doing double major in Jeonbuk National University. I want to be a DBA engineer in the future.
     button:
@@ -50,7 +50,7 @@ education:
   - area: Political Science and Diplomacy
     institution: Jeonbuk National University
     date_start: 2021-03-02
-    date_end: 2024-09(~ing)
+    date_end: 2024-06-21
     summary: |
       I entered university in major of political science and diplomacy having a dream to be a diplomat. I was so touched by Niccolo Machiavelli after reading <The Prince>.
     button:
