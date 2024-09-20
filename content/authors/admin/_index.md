@@ -60,8 +60,8 @@ education:
 
  
 work:
-  - position: COMMENTO JOB BOOT CAMP -BIG DATA
-    company_name: commento
+  - position: COMENTO JOB BOOT CAMP -BIG DATA
+    company_name: comento
     company_url: 'https://comento.kr/?index'
     company_logo: ''
     date_start: 2024-07-04
@@ -73,7 +73,7 @@ work:
       -Finding errors among database.
     button:
       text: 'Certificate'
-      url: 'C:\Users\삼성노트북\Desktop\OSS24-2\Hyemin-Youn.github.io\content\authors\admin\코멘토직무부트캠프 수료증.png'
+      url: 'certificate.pdf'
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
