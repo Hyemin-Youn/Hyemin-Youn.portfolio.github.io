@@ -33,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Hyemin-Youn
   - icon: brands/linkedin
-    url: www.linkedin.com/in/hyemin-youn
+    url: www.linkedin.com/in/Hyemin-Youn
   - icon: brands/instagram
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
