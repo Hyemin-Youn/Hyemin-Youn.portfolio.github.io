@@ -39,7 +39,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: awards
+      title: Projects
       username: admin
   - block: languages
     content:
