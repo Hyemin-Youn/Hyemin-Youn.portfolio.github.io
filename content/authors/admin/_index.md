@@ -113,8 +113,8 @@ languages:
     percent: 100
   - name: English 
     percent: 75
-  - name: Deutsche
-    percent: 25
+
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
