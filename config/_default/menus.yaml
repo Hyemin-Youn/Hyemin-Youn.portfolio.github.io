@@ -1,5 +1,5 @@
 menu:
-  - name: Home
+  - name: 'Home'
     url: /
     weight: 10
   - name: Blog
