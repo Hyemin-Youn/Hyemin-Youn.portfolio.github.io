@@ -121,7 +121,7 @@ sections:
         align: center
         background:
           image:
-            filename:''
+            filename: ''
             filters:
               brightness: 0.4
           position: center
