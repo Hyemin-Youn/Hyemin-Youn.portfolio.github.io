@@ -1,4 +1,4 @@
-main:
+menu:
   - name: Home
     url: /
     weight: 10
