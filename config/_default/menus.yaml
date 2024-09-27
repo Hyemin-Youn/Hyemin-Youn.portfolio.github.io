@@ -1,4 +1,16 @@
 main:
-  - title: Home
-    url: "https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/"
-    weight: 1
+  - name: Home
+    url: /
+    weight: 10
+  - name: Blog
+    url: blog/
+    weight: 20
+  - name: Uses
+    url: uses/
+    weight: 30
+  - name: Projects
+    url: project/
+    weight: 40
+  - name: Contact
+    url: contact/
+    weight: 50
