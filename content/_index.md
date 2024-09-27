@@ -5,7 +5,7 @@ type: landing
 
 sections:
 
-- block: biography
+  - block: biography
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
@@ -39,7 +39,7 @@ sections:
     content:
       title: Languages
       username: admin
-      
+
   #여기부터 교수님코드
   - block: features
     content:
