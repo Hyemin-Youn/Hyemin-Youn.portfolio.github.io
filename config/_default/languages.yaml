@@ -2,7 +2,7 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
+# Uncomment the lines below to configure your website in a second language.
 ko:
   languageCode: ko-ko
   contentDir: content/ko
@@ -15,7 +15,8 @@ ko:
         url: '#authors'
         weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
+
+# Default language
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
