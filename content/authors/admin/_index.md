@@ -123,6 +123,7 @@ languages:
 awards:
   - title: 공공데이터 API를 이용한 미세먼지 지도 시각화
     url: https://www.coursera.org/learn/neural-networks-deep-learning
+    execution_url: uploads/apiexecution.png
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
@@ -130,6 +131,7 @@ awards:
       공공데이터 API를 활용하여 대한민국 전국을 8도로 나누어 지역별 미세먼지 농도를 지도에 시각화하는 프로젝트를 수행하였습니다. 언어는 파이썬이 사용되었습니다.
   - title: Pygame in Python
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    project_pdf: https://www.datacamp.com
     date: '2023-07-01'
     awarder: edX
     icon: edx
@@ -145,4 +147,4 @@ awards:
       C언어를 배우고, 사칙연산을 활용하여 콘솔 창에 질문에 대한 정보를 입력하면 계산이 되는 계산기 프로그램을 만들었습니다.
 ---
 
-I am currently learning how to make web service at Jeonbuk National University where I am learning as my second major.
+I am currently learning how to make web service at Jeonbuk National University where I am learning as my second major.3
