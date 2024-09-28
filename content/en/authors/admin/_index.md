@@ -121,14 +121,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 공공데이터 API를 이용한 미세먼지 지도 시각화
+  - title: Fine-Dust Map Visualization Using Public Data API
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     execution_url: uploads/apiexecution.png
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      공공데이터 API를 활용하여 대한민국 전국을 8도로 나누어 지역별 미세먼지 농도를 지도에 시각화하는 프로젝트를 수행하였습니다. 언어는 파이썬이 사용되었습니다.
+      I carried out a project that visualized fine dust concentrations across South Korea by dividing the country into 8 regions using a public data API. The project was implemented using Python.
   - title: Pygame in Python
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     project_pdf: https://www.datacamp.com
@@ -136,7 +136,7 @@ awards:
     awarder: edX
     icon: edx
     summary: |
-      파이썬의 pygame을 활용하여 키보드 방향키로 캐릭터를 움직여 두더지를 피하는 파이게임을 만들었습니다.
+      I created a Pygame using Python's Pygame library, where the character is controlled using the keyboard arrow keys to avoid moles.
   - title: Calculating Program in C 
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
@@ -144,6 +144,7 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      C언어를 배우고, 사칙연산을 활용하여 콘솔 창에 질문에 대한 정보를 입력하면 계산이 되는 계산기 프로그램을 만들었습니다.
+       I have learned C language and created a calculator program that performs arithmetic operations. It allows users to input information through the console and provides the calculation results.
 ---
-안녕하세요! 윤혜민의 포트폴리오 페이지에 오신 걸 환영합니다.
+Hello, Welcome to visit "Hyemin-Youn" website!
+I'm studying computer engineering and political science in Jeonbuk Natinoal University.
