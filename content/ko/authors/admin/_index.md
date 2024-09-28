@@ -38,6 +38,7 @@ profiles:
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
 education:
+  title: 학위
   - area: Computer Engineering
     institution: Jeonbuk Natinal University
     date_start: 2023-03-02
