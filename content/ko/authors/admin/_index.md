@@ -59,7 +59,7 @@ education:
   
 
  
-work: 경험
+work:
   - position: 코멘토 직무부트캠프
     company_name: 코멘토
     company_url: 'https://comento.kr/?index'
@@ -118,7 +118,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 공공데이터 API를 이용한 미세먼지 지도 시각화
+  - title: 공공데이터 API를 이용한 미세먼지 지도 시각화(파이썬)
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     execution_url: uploads/apiexecution.png
     date: '2023-11-25'
@@ -126,7 +126,7 @@ awards:
     icon: coursera
     summary: |
       공공데이터 API를 활용하여 대한민국 전국을 8도로 나누어 지역별 미세먼지 농도를 지도에 시각화하는 프로젝트를 수행하였습니다. 언어는 파이썬이 사용되었습니다.
-  - title: 파이썬 파이게임을 이용한 두더지 피하기 게임
+  - title: 파이썬 파이게임을 이용한 두더지 피하기 게임(파이썬)
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     project_pdf: https://www.datacamp.com
     date: '2023-07-01'
