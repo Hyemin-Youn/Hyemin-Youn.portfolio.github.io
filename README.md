@@ -1,4 +1,4 @@
-# [Hugo Résumé Theme](https://github.com/HugoBlox/theme-resume)
+# [Hyemin-Youn Homepage](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
 
 [![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
 
