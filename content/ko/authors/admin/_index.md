@@ -59,7 +59,7 @@ education:
   
 
  
-work:
+work: 경험
   - position: 코멘토 직무부트캠프
     company_name: 코멘토
     company_url: 'https://comento.kr/?index'
