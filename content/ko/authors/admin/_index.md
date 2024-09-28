@@ -38,42 +38,38 @@ profiles:
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
 education:
-  title: 학위
-  - area: Computer Engineering
-    institution: Jeonbuk Natinal University
+  - area: 컴퓨터공학
+    institution: 전북대학교
     date_start: 2023-03-02
     date_end: 2025-08-31
     summary: |
-      Computer Engineering is my second major. I am doing double major in Jeonbuk National University. I want to be a DBA engineer in the future.
+      전북대학교에서 IT정보공학과 복수전공을 하고 있습니다. 
     button:
-      text: 'JBNU SCAI'
+      text: '전북대학교 컴퓨터인공지능학부(IT정보공학과)'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
-  - area: Political Science and Diplomacy
-    institution: Jeonbuk National University
+  - area: 정치외교학과
+    institution: 전북대학교
     date_start: 2021-03-02
     date_end: 2024-06-21
     summary: |
-      I entered university in major of political science and diplomacy having a dream to be a diplomat. I was so touched by Niccolo Machiavelli after reading <The Prince>.
+      전북대학교에서 정치외교학을 공부하고 있습니다.
     button:
-      text: 'JBNU POL'
+      text: '전북대학교 정치외교학과'
       url: 'https://pol.jbnu.ac.kr/pol/index.do'
   
 
  
 work:
-  - position: COMENTO JOB BOOT CAMP -BIG DATA
-    company_name: comento
+  - position: 코멘토 직무부트캠프
+    company_name: 코멘토
     company_url: 'https://comento.kr/?index'
     company_logo: ''
     date_start: 2024-07-07
     date_end: 2024-08-04
     summary: |2-
-      Responsibilities include:
-      - Calculating budget of using RDBMS.
-      - Designing ERD, transfering datas and using MongoDB.
-      -Finding errors among database.
+      데이터 엔지니어의 모든 실무 유형과 취업전략 : 데이터베이스 관리자의 실무를 체험하고 DBA를 꿈꾸게 되었습니다.
     button:
-      text: 'Certification'
+      text: '직무부트캠프 이수증'
       url: 'uploads/certificate.pdf'
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
