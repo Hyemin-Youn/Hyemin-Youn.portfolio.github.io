@@ -31,6 +31,12 @@ header:
   navbar:
     enable: true
     blox: floating-theme-toggler
+    align: r
+    show_logo: true
+    show_language: true
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
 # Site footer
 footer:
@@ -43,7 +49,7 @@ footer:
       allow_commercial: false
 
 # Localization
-local:
+locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
@@ -53,3 +59,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    
