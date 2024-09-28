@@ -138,8 +138,8 @@ awards:
     summary: |
       I created a Pygame using Python's Pygame library, where the character is controlled using the keyboard arrow keys to avoid moles.
   - title: Calculating Program in C 
-    url: file:///C:/Users/%EC%82%BC%EC%84%B1%EB%85%B8%ED%8A%B8%EB%B6%81/Desktop/%EC%9B%B9%ED%94%84apiCPU/Scripts/dust_map.html
-    certificate_url: file:///C:/Users/%EC%82%BC%EC%84%B1%EB%85%B8%ED%8A%B8%EB%B6%81/Desktop/%EC%9B%B9%ED%94%84apiCPU/Scripts/dust_map.html
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp

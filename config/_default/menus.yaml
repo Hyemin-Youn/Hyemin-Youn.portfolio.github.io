@@ -5,3 +5,6 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: search
+    url: about/
+    weight: 30
