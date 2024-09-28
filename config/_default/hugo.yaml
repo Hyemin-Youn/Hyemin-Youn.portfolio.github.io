@@ -10,7 +10,7 @@ baseURL: 'https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/' # Website U
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
