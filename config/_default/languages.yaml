@@ -9,11 +9,7 @@ ko:
   title: Korean website title
   params:
     description: Site description in Korean
-  menu:
-    main:
-      - name: language change
-        url: '#authors'
-        weight: 1
+
 
 
 # Default language
