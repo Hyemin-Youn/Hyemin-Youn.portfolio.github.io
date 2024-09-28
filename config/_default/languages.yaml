@@ -6,9 +6,7 @@
 ko:
   languageCode: ko-ko
   contentDir: content/ko
-  title: Korean website title
-  params:
-    description: Site description in Korean
+
 
 
 
