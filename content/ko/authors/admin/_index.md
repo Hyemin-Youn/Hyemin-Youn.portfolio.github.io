@@ -106,9 +106,9 @@ skills:
         icon: camera
 
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English 
+  - name: 영어 
     percent: 75
 
 
