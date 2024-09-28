@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: university student
+role: 대학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
