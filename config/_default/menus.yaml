@@ -1,6 +1,6 @@
 main:
   - name: Home
-    url: /
+    url: 'https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/''
     weight: 100
  # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

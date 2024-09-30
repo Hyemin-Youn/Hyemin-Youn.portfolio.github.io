@@ -101,7 +101,7 @@
 - id: interests
   translation: 관심분야
 
-- id: educations
+- id: education
   translation: 학위
 
 - id: user_profile_latest
