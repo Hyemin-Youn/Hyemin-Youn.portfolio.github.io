@@ -123,7 +123,7 @@ languages:
 awards:
   - title: Fine-Dust Map Visualization Using Public Data API
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    execution_url: uploads/apiexecution.png
+    execution_url: https://www.edx.org/
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera

@@ -120,7 +120,7 @@ languages:
 awards:
   - title: 공공데이터 API를 이용한 미세먼지 지도 시각화(파이썬)
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    execution_url: uploads/apiexecution.png
+    execution_url: https://www.datacamp.com
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
