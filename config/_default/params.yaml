@@ -30,9 +30,10 @@ marketing:
 header:
   navbar:
     enable: true
+    show_search: true
     blox: "navbar"
     align: "center"
-    show_search: true
+    
 
     
 
