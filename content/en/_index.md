@@ -39,10 +39,7 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: work
-    content:
-      title: COMENTO JOB BOOT CAMP -BIG DATA
-      username: admiin
+
   
 ---
   

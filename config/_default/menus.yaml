@@ -7,7 +7,10 @@ main:
     weight: 2
   - name: Project
     url: ''
-    weight: 3 
+    weight: 3
+    -name: project 1
+    -name: project 2
+    -name: project 3
   - name: Study
     url: ''
     weight: 4
