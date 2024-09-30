@@ -36,7 +36,11 @@ body {
   // no navbar shadow
   .navbar {
     box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-    justify-content: flex-start;
+  }
+
+  .navbar-brand {
+    position: absolute;
+    left: 0;
   }
   
   // custom section padding
