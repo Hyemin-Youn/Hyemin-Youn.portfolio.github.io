@@ -70,7 +70,7 @@ work:
       데이터 엔지니어의 모든 실무 유형과 취업전략 : 데이터베이스 관리자의 실무를 체험하고 DBA를 꿈꾸게 되었습니다.
     button:
       text: '직무부트캠프 이수증'
-      url: 'uploads/certificate.pdf'
+      url: 'static/uploads/certificate.pdf'
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
