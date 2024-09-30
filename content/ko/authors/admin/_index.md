@@ -37,7 +37,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
-교육:
+education:
   - area: 컴퓨터공학
     institution: 전북대학교
     date_start: 2023-03-02
@@ -59,7 +59,7 @@ profiles:
   
 
  
-경험:
+work:
   - position: 코멘토 직무부트캠프
     company_name: 코멘토
     company_url: 'https://comento.kr/?index'
