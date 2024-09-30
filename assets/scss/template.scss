@@ -37,14 +37,7 @@ body {
   .navbar {
     box-shadow: none !important; // 'important' to override dark mode box-shadow too.
   }
-  .navbar {
-    justify-content: flex-start; /* 상단바 전체를 왼쪽 정렬 */
-  }
 
-  .navbar-brand {
-    margin-left: 0; /* 로고 요소가 있을 경우 */
-    padding-left: 0; /* 필요 시 추가 */
-  }
 
   // custom section padding
   .home-section {
@@ -52,7 +45,7 @@ body {
   }
   
   .home-section.wg-about-avatar {
-    padding: 0;
+    padding: 10;
   }
   
   #profile .network-icon {
