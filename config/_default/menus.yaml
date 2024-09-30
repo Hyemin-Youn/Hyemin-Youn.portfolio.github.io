@@ -12,7 +12,7 @@ main:
     url: ''
     weight: 4
   - name: Blog
-    url: ''
+    url: 'https://blog.naver.com/yunemin'
     weight: 5
 
  # Navigation Links
