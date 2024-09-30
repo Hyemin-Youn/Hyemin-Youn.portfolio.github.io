@@ -31,7 +31,7 @@ header:
   navbar:
     enable: true
     show_search: true
-    blox: floating-theme-toggler
+    
     
 
     
