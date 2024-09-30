@@ -3,7 +3,7 @@ main:
     url: ''
     weight: 1
   - name: Contact
-    url: ''
+    url: '\content\Contact'
     weight: 2
 
  # Navigation Links
