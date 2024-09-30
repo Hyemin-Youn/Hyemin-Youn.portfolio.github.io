@@ -40,6 +40,6 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: true
-    design:
-      columns: '3'
+    # design:
+    #   columns: '3'
 ---
