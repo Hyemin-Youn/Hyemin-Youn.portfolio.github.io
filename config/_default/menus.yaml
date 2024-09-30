@@ -8,6 +8,12 @@ main:
   - name: Project
     url: project
     weight: 300 
+  - name: Study
+    url: study
+    weight: 400
+  - name: Blog
+    url: blog
+    weight: 500
 
  # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
