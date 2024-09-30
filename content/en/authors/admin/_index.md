@@ -70,7 +70,7 @@ work:
       Responsibilities include:
       - Calculating budget of using RDBMS.
       - Designing ERD, transfering datas and using MongoDB.
-      -Finding errors among database.
+      - Finding errors among database.
     button:
       text: 'Certification'
       url: 'uploads/certification.pdf'
