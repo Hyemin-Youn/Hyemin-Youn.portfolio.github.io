@@ -3,16 +3,16 @@ main:
     url: /
     weight: 1
   - name: Contact
-    url: contact
+    url: ''
     weight: 2
   - name: Project
-    url: project
+    url: ''
     weight: 3 
   - name: Study
-    url: study
+    url: ''
     weight: 4
   - name: Blog
-    url: blog
+    url: ''
     weight: 5
 
  # Navigation Links
