@@ -3,7 +3,7 @@ main:
     url: 'https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/'
     weight: 1
   - name: Contact
-    url: '\content\ko'
+    url: '\content'
     weight: 2
 
  # Navigation Links
