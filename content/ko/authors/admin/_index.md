@@ -71,6 +71,7 @@ work:
     button:
       text: '직무부트캠프 이수증'
       url: 'uploads/certification.pdf'
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
