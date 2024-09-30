@@ -37,6 +37,9 @@ body {
   .navbar {
     box-shadow: none !important; // 'important' to override dark mode box-shadow too.
   }
+  .navbar {
+    justify-content: flex-start;
+  }
 
 
   // custom section padding
