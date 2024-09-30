@@ -1,6 +1,6 @@
 main:
   - name: Home
-    url: \
+    url: 'https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/'
     weight: 1
 
  # Navigation Links
