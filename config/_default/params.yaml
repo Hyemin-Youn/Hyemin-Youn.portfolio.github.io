@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light
   color: blue
 
 # SEO
@@ -31,6 +31,8 @@ header:
   navbar:
     enable: true
     show_search: true
+
+    
 
 # Site footer
 footer:
