@@ -22,7 +22,8 @@ sections:
         filename: codingbackground.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 1em;'
+
   - block: experience
     content:
       username: admin
