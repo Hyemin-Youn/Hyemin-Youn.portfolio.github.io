@@ -24,6 +24,13 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 1em;'
 
+  - block: work
+    content:
+      username: admin
+      button:
+      text: 'see_certificate'
+      url: '/uploads/certification.pdf'   
+
   - block: experience
     content:
       username: admin
