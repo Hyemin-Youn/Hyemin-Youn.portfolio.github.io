@@ -37,6 +37,8 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
+experience:
+
 education:
   - area: 컴퓨터공학
     institution: 전북대학교
