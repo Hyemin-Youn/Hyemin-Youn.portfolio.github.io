@@ -36,7 +36,6 @@ body {
   // no navbar shadow
   .navbar {
     box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-    margin-bottom: 0.5rem; /* 현재 설정된 값보다 작게 조정 */  
   }
 
 
@@ -44,10 +43,8 @@ body {
   // custom section padding
   .home-section {
     padding: 1rem;
-    padding-top: 0.5rem; /* 상단 패딩을 작게 조정 */
   }
   .home-section {
-    padding: 0.5rem; /* 모든 방향에서 패딩을 줄여줍니다 */
   }
 
   
@@ -124,16 +121,5 @@ body {
     font-size: 0.8rem;
   }
 
-  #section-resume-biography {
-    padding: 20px 0; /* 상단과 하단의 패딩을 조정하여 간격을 줄입니다 */
-  }
-  #section-resume-biography {
-    margin-bottom: 10px; /* 섹션 하단의 간격을 줄여서 아래 요소와의 간격을 좁힙니다 */
-  }
-  #section-resume-biography .avatar-wrapper {
-    margin-top: -50px; /* 이미지를 조금 더 위로 올려 섹션 내 간격을 줄입니다 */
-  }
-  #section-resume-biography .w-full {
-    padding: 10px; /* 필요에 따라 패딩을 더 줄일 수 있습니다 */
-  }
+ 
   
