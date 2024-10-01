@@ -1,6 +1,6 @@
 본 콘덴츠는 2024년 2학기 웹서비스설계 수업의 과제1 MARKDOWN언어 HUGO Website 생성을 위해 제작되었습니다.
 
-# [Hyemin-Youn Homepage](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
+# [Hyemin-Youn Portfolio Homepage](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
 
 [![Screenshot](./.github/preview.png)](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
 
