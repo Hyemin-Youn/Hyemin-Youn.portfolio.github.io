@@ -5,16 +5,16 @@ main:
   - name: About
     url: ''
     weight: 200
-  - name: Contact
-    url: ''
-    weight: 300
   - name: Project
     url: ''
-    weight: 400
+    weight: 300
   - name: Study
     url: ''
-    weight: 500
+    weight: 400
   - name: Blog
+    url: ''
+    weight: 500
+  - name: Contact
     url: ''
     weight: 600
 
