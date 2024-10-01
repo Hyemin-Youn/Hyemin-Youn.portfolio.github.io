@@ -74,7 +74,7 @@ work:
     button:
       text: 'see_certificate'
       url: '/uploads/certification.pdf'
-      
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

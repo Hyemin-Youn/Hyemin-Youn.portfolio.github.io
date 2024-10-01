@@ -36,16 +36,21 @@ body {
   // no navbar shadow
   .navbar {
     box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+    margin-bottom: 0.5rem; /* 현재 설정된 값보다 작게 조정 */  
   }
-  .navbar {
-    justify-content: flex-start;
-  }
+
 
 
   // custom section padding
   .home-section {
     padding: 1rem;
+    padding-top: 0.5rem; /* 상단 패딩을 작게 조정 */
   }
+  
+  .home-section {
+    padding: 0.5rem; /* 모든 방향에서 패딩을 줄여줍니다 */
+  }
+
   
   .home-section.wg-about-avatar {
     padding: 0;
