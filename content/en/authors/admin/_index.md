@@ -72,7 +72,7 @@ work:
       - Designing ERD, transfering datas and using MongoDB.
       - Finding errors among database.
     button:
-      text: 'Certification'
+      text: 'see_certificate'
       url: 'uploads/certification.pdf'
       
 # Skills
