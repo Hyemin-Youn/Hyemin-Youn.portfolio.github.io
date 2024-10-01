@@ -21,6 +21,9 @@ mounts:
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     includeFiles: 'wc.min.css'
+  - source: hugo-blox/blox
+    target: assets/dist/community/blox/
+    includeFiles: 'community--7870ce89.css'
   - source: layouts
     target: layouts
   - source: assets
