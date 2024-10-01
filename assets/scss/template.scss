@@ -84,7 +84,7 @@ body {
   }
   
   .home-section header {
-    margin-bottom: 4em;
+    margin-bottom: 1em;
   }
   
   // Narrower container for Hello World sections (primarily Blank widget content).
@@ -124,6 +124,16 @@ body {
     font-size: 0.8rem;
   }
 
-  #profile.resume-biography {
-    background-color: #e7e97c; /* 원하는 색상으로 변경 */
+  #section-resume-biography {
+    padding: 20px 0; /* 상단과 하단의 패딩을 조정하여 간격을 줄입니다 */
   }
+  #section-resume-biography {
+    margin-bottom: 10px; /* 섹션 하단의 간격을 줄여서 아래 요소와의 간격을 좁힙니다 */
+  }
+  #section-resume-biography .avatar-wrapper {
+    margin-top: -50px; /* 이미지를 조금 더 위로 올려 섹션 내 간격을 줄입니다 */
+  }
+  #section-resume-biography .w-full {
+    padding: 10px; /* 필요에 따라 패딩을 더 줄일 수 있습니다 */
+  }
+  
