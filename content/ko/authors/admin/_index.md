@@ -58,6 +58,10 @@ education:
       url: 'https://pol.jbnu.ac.kr/pol/index.do'
   
 
+collection:
+  - name: collection
+    description: ''
+
  
 work:
   - position: 코멘토 직무부트캠프
