@@ -2,7 +2,7 @@
 
 # [Hyemin-Youn Homepage](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
 
-[![Screenshot](\uploads\pagecap.pdf)](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
+[![Screenshot](./.github/preview.png)](https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/)
 
 
 
