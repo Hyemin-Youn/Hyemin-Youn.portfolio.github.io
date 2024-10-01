@@ -44,7 +44,7 @@ body {
 
   // custom section padding
   .home-section {
-    padding: 1rem 0;
+    padding: 1rem;
   }
   
   .home-section.wg-about-avatar {
@@ -118,4 +118,8 @@ body {
   
   .wg-about .portrait-title h3 {
     font-size: 0.8rem;
+  }
+
+  #profile.resume-biography {
+    background-color: #e7e97c; /* 원하는 색상으로 변경 */
   }
