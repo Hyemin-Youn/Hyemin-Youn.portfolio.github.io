@@ -7,7 +7,8 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Hyemin-Youn protfolio homepage</span>
-      text: <br><span style="font-size:125%">=윤혜민의 포트폴리오 홈페이지에 오신 것을 환영합니다.</span> 
+      text: <br><span style="font-size:125%">WELCOME😃
+      welcome to visit my website. feel free to browse.</span> 
 
   - block: biography
     content:
