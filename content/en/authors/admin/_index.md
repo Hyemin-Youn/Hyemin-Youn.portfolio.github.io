@@ -72,8 +72,8 @@ work:
       - Designing ERD, transfering datas and using MongoDB.
       - Finding errors among database.
     button:
-      text: 'see_certificate'
-      url: 'C:\Users\삼성노트북\Desktop\test\Hyemin-Youn.test.github.io\static\uploads'
+      text: 'certificate'
+      url: '\static\uploads'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
