@@ -26,7 +26,7 @@ sections:
         filename: background.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 1em;'
+        style: 'text-align: justify; font-size: 0.8em;'
 
   - block: experience
     content:
