@@ -73,7 +73,7 @@ work:
       - Finding errors among database.
     button:
       text: 'see_certificate'
-      url: '/uploads/certification.pdf'
+      url: '/certification.pdf'
 
 
 # Skills
