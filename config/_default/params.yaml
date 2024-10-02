@@ -63,7 +63,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Hyemin-Youn/Hyemin-Youn.test.github.io' 
+    url: 'https://github.com/Hyemin-Youn/Hyemin-Youn.github.io' 
     content_dir: content
     branch: main
   avatar:
