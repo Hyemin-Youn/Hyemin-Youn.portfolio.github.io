@@ -1,13 +1,13 @@
 ---
 title: Home
-date: 2024-10-02
+date: 2023-10-24
 type: landing
 
 sections:
   - block: features
     content:
       title: <span style="font-size:70%">Hyemin-Youn portfolio homepage</span>
-      text: <br><span style="font-size:125%;"> 😃Welcome to visit my website. Feel free to browse.</span> 
+      text: <br><span style="font-size:125%;">😃Welcome to visit my website. Feel free to browse.</span> 
 
   - block: biography
     content:
