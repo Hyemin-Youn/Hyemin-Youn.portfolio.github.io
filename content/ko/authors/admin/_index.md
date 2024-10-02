@@ -59,12 +59,6 @@ education:
       text: '전북대학교 정치외교학과'
       url: 'https://pol.jbnu.ac.kr/pol/index.do'
   
-
-collection:
-  - name: collection
-    description: ''
-
- 
 work:
   - position: 코멘토 직무부트캠프
     company_name: 코멘토
