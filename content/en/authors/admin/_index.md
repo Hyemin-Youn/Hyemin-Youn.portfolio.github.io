@@ -73,7 +73,7 @@ work:
       - Finding errors among database.
     button:
       text: 'see_certificate'
-      url: '/uploads/certification.pdf' 
+      url: 'C:\Users\삼성노트북\Desktop\test\Hyemin-Youn.test.github.io\static\uploads'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
