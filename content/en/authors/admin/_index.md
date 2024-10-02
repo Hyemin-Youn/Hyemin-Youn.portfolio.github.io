@@ -146,6 +146,11 @@ awards:
     icon: datacamp
     summary: |
        I have learned C language and created a calculator program that performs arithmetic operations. It allows users to input information through the console and provides the calculation results.
+
+contact:
+  title: Contact
+  url: https://hyemin-youn.github.io/Contact
+
 ---
 Hello, Welcome to visit "Hyemin-Youn" website!
 I'm studying computer engineering and political science in Jeonbuk Natinoal University.

@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2024-10-03
-type: page
+type: landing
 ---
 
 ## Get in Touch
