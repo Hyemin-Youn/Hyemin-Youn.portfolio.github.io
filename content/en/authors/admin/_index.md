@@ -73,7 +73,7 @@ work:
       - Finding errors among database.
     button:
       text: 'see_certificate'
-      url: 'https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/uploads/certification.pdf'
+      url: '/uploads/certification.pdf'
 
 
 # Skills
