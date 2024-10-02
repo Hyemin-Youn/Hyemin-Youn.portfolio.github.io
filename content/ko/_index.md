@@ -1,7 +1,11 @@
 ---
-title: Home
+title: 'Home'
 date: 2023-10-24
 type: landing
+
+design:
+  # Default section spacing
+  spacing: "4rem"
 
 sections:
   - block: features
@@ -24,6 +28,13 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 1em;'
         
+  - block: work
+    content:
+      username: admin
+      button:
+      text: '직무부트캠프 이수증'
+      url: 'uploads/certification.pdf'
+      
   - block: experience
     content:
       username: admin
