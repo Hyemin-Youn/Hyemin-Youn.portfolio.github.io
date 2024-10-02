@@ -3,19 +3,19 @@ main:
     url: ''
     weight: 10
   - name: About
-    url: 'https://hyemin-youn.github.io/about'
+    url: 'https://hyemin-youn.github.io/About'
     weight: 20
   - name: Project
-    url: 'https://hyemin-youn.github.io/project'
+    url: 'https://hyemin-youn.github.io/Project'
     weight: 30
   - name: Study
-    url: 'https://hyemin-youn.github.io/study'
+    url: 'https://hyemin-youn.github.io/Study'
     weight: 40
   - name: Blog
-    url: 'https://hyemin-youn.github.io/blog'
+    url: 'https://hyemin-youn.github.io/Blog'
     weight: 50
   - name: Contact
-    url: 'https://hyemin-youn.github.io/contact'
+    url: 'https://hyemin-youn.github.io/Contact'
     weight: 60
 
  # Navigation Links
