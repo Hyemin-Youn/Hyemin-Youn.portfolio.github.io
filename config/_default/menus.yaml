@@ -12,7 +12,7 @@ main:
     url: 'https://hyemin-youn.github.io/Study'
     weight: 40
   - name: Blog
-    url: 'https://hyemin-youn.github.io/Blog'
+    url: 'https://blog.naver.com/yunemin'
     weight: 50
   - name: Contact
     url: 'https://hyemin-youn.github.io/Contact'
