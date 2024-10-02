@@ -7,7 +7,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Hyemin-Youn portfolio homepage</span>
-      text: <br><span style="font-size:125%">WELCOME😃welcome to visit my website. feel free to browse.</span> 
+      text: <br><span style="font-size:125%;">WELCOME😃 Welcome to visit my website. Feel free to browse.</span> 
 
   - block: biography
     content:
@@ -15,7 +15,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: /uploads/resume.pdf
+        url: uploads/resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -23,13 +23,6 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 1em;'
-
-  - block: work
-    content:
-      username: admin
-      button:
-      text: 'certificate'
-      url: 'static/uploads/'   
 
   - block: experience
     content:
