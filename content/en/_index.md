@@ -3,6 +3,10 @@ title: Home
 date: 2023-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "4rem"
+  
 sections:
   - block: features
     content:
