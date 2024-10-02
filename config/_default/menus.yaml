@@ -15,7 +15,7 @@ main:
     url: ''
     weight: 50
   - name: Contact
-    url: ''
+    url: 'https://hyemin-youn.github.io/Contact'
     weight: 60
 
  # Navigation Links
