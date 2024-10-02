@@ -73,7 +73,7 @@ work:
       - Finding errors among database.
     button:
       text: 'see_certificate'
-      url: uploads/certification.pdf
+      url: 'uploads/certification.pdf'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,12 +114,6 @@ languages:
     percent: 100
   - name: English 
     percent: 75
-
-collection:
-  - name: collection
-    description: ''
-
-
 
 
 # Awards.
