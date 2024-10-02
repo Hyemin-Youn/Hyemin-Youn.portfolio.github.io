@@ -73,7 +73,7 @@ work:
       - Finding errors among database.
     button:
       text: 'certificate'
-      url: '\static\uploads'
+      url: /static/uploads/certification.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
