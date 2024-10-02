@@ -1,22 +1,22 @@
 main:
   - name: Home
     url: ''
-    weight: 100
+    weight: 10
   - name: About
     url: ''
-    weight: 200
+    weight: 20
   - name: Project
     url: ''
-    weight: 300
+    weight: 30
   - name: Study
     url: ''
-    weight: 400
+    weight: 40
   - name: Blog
     url: ''
-    weight: 500
+    weight: 50
   - name: Contact
     url: ''
-    weight: 600
+    weight: 60
 
  # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
