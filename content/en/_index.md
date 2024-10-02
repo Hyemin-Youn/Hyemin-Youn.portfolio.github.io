@@ -7,7 +7,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Hyemin-Youn portfolio homepage</span>
-      text: <br><span style="font-size:125%;">WELCOME😃 Welcome to visit my website. Feel free to browse.</span> 
+      text: <br><span style="font-size:125%;"> 😃Welcome to visit my website. Feel free to browse.</span> 
 
   - block: biography
     content:
