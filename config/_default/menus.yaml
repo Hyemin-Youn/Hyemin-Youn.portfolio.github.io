@@ -3,16 +3,16 @@ main:
     url: ''
     weight: 10
   - name: About
-    url: ''
+    url: 'https://hyemin-youn.github.io/About'
     weight: 20
   - name: Project
-    url: ''
+    url: 'https://hyemin-youn.github.io/Project'
     weight: 30
   - name: Study
-    url: ''
+    url: 'https://hyemin-youn.github.io/Study'
     weight: 40
   - name: Blog
-    url: ''
+    url: 'https://hyemin-youn.github.io/Blog'
     weight: 50
   - name: Contact
     url: 'https://hyemin-youn.github.io/Contact'
