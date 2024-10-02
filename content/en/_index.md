@@ -7,15 +7,15 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Hyemin-Youn portfolio homepage</span>
-      text: <br><span style="font-size:125%">WELCOME😃welcome to visit my website. feel free to browse.</span> 
-
+      text: <br><span style="font-size:125%; background-color:#d0e7f9;">윤혜민의 포트폴리오 홈페이지에 오신 것을 환영합니다.</span> 
+      
   - block: biography
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: /uploads/resume.pdf
+        url: uploads/resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -23,14 +23,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 1em;'
-
-  - block: work
-    content:
-      username: admin
-      button:
-      text: 'see_certificate'
-      url: '/uploads/certification.pdf'   
-
+        
   - block: experience
     content:
       username: admin
@@ -52,7 +45,6 @@ sections:
       title: Languages
       username: admin
   
-  #여기서 new
   - block: collection
     id: posts
     content:
@@ -84,7 +76,4 @@ sections:
       # Choose a listing view
       view: card
 ---
-
-  
-
   
