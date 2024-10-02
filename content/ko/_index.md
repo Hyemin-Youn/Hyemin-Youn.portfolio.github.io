@@ -27,14 +27,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 1em;'
-        
-  - block: work
-    content:
-      username: admin
-      button:
-      text: '직무부트캠프 이수증'
-      url: 'uploads/certification.pdf'
-      
+
   - block: experience
     content:
       username: admin
