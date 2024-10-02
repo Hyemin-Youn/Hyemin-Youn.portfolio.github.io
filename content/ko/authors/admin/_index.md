@@ -69,7 +69,6 @@ work:
     button:
       text: '직무부트캠프 이수증'
       url: 'uploads/certification.pdf'
-      
     
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,7 +135,7 @@ awards:
       파이썬의 pygame을 활용하여 키보드 방향키로 캐릭터를 움직여 두더지를 피하는 파이게임을 만들었습니다.
   - title: 사칙연산 계산기 프로그램 (C언어)
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: '/uploads/certification.pdf'
+    certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
