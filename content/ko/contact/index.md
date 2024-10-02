@@ -1,6 +1,6 @@
 ---
-title: 연락처
-date: 2024-10-03
+title: Contact
+date: 2023-10-24
 type: page
 ---
 
