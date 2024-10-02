@@ -19,7 +19,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: /uploads/resume.pdf
+        url: 'https://hyemin-youn.github.io/Hyemin-Youn.test.github.io/uploads/resume.pdf'
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
