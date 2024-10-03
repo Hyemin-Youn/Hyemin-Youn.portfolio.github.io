@@ -18,7 +18,7 @@ main:
     hasChildren: true
   - parent: Resources
     name: Blog
-    url: blog/
+    url: 'https://blog.naver.com/yunemin'
   - name: Contact
     url: 'https://hyemin-youn.github.io/contact/'
     weight: 60
