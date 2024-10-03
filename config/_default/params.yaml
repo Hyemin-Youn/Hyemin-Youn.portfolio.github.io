@@ -30,6 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: floating-theme-toggler
     show_search: true
     
     
@@ -40,7 +41,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
-    license:
+    license: 
       enable: true
       allow_derivatives: false
       share_alike: true
@@ -50,52 +51,10 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-
+  
 # Site features
 features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
   math:
     enable: false
   privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/Hyemin-Youn/Hyemin-Youn.github.io' 
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: ''
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
     enable: false
