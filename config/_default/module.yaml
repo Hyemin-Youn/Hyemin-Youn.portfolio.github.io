@@ -18,6 +18,15 @@ mounts:
   - source: hugo-blox/blox/all-access
     target: layouts/partials/blox/
     includeFiles: '**.html'
+  - source: hugo-blox/blox/all-access
+    target: layouts/partials/views/
+    includeFiles: 'card.html'
+  - source: hugo-blox/blox/all-access
+    target: layouts/partials/views/
+    includeFiles: 'card.start.html'
+  - source: hugo-blox/blox/all-access
+    target: layouts/partials/views/
+    includeFiles: 'card.end.html'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     includeFiles: 'wc.min.css'
