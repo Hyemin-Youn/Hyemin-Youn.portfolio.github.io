@@ -13,7 +13,7 @@ main:
     weight: 40
 
     //수정함
- - name: Resources
+  - name: Resources
     weight: 50
     hasChildren: true
   - parent: Resources
