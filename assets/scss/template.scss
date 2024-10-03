@@ -3,7 +3,7 @@
 
 body {
     background-color: white;
-    color:black
+    color:rgb(244, 244, 244)
   }
 
 
@@ -18,7 +18,7 @@ body {
   
   // custom footer color
   .page-footer {
-    background-color: rgb(26, 32, 44);
+    background-color: rgb(247, 250, 252);
   }
   
   .dark .page-footer {
@@ -58,12 +58,12 @@ body {
   }
   
   .dark .portrait-title h3 {
-    color: rgba(26, 32, 44);
+    color: rgba(255, 255, 255, 0.9);
     font-weight: bold;
   }
   
   .dark .portrait-title h2 {
-    color: #0a0a0a;
+    color: #fff;
     font-weight: bold;
   }
   
