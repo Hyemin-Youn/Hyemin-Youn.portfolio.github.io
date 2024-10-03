@@ -11,8 +11,8 @@ main:
   - name: Study
     url: 'https://hyemin-youn.github.io/Study'
     weight: 40
-
-    //수정함
+    
+#수정함
   - name: Resources
     weight: 50
     hasChildren: true
