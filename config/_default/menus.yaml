@@ -16,7 +16,7 @@ main:
     url: 'https://www.youtube.com/watch?v=OdMfUv-BFT4&list=PLRtkynNyEsXnoY9KbbbLF9dPGGARLkCyU'
   - parent: Study
     name: Node.js
-    name: 'https://www.youtube.com/watch?v=Tt_tKhhhJqY'
+    url: 'https://www.youtube.com/watch?v=Tt_tKhhhJqY'
 
 #수정함
   - name: Resources
