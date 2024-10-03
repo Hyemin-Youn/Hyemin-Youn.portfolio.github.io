@@ -15,7 +15,7 @@ main:
     url: 'https://blog.naver.com/yunemin'
     weight: 50
   - name: Contact
-    url: 'https://hyemin-youn.github.io/Contact'
+    url: 'https://hyemin-youn.github.io/contact/'
     weight: 60
 
  # Navigation Links
