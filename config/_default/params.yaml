@@ -40,7 +40,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
-    license: 
+    license: true
       enable: true
       allow_derivatives: false
       share_alike: true
