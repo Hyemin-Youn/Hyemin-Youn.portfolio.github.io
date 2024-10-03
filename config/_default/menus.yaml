@@ -11,7 +11,7 @@ main:
   - name: Study
     url: 'https://hyemin-youn.github.io/Study'
     weight: 40
-    
+
 #수정함
   - name: Resources
     weight: 50
@@ -19,6 +19,9 @@ main:
   - parent: Resources
     name: Blog
     url: blog/
+  - name: Contact
+    url: 'https://hyemin-youn.github.io/contact/'
+    weight: 60
   # - name: Blog
   #   url: 'https://blog.naver.com/yunemin'
   #   weight: 50
