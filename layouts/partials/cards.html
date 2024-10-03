@@ -1,0 +1,11 @@
+<div class="card-container">
+  {{ range .Pages }} <!-- .Pages를 통해 여러 콘텐츠를 반복 -->
+    <div class="card">
+      <img src="{{ .Params.image }}" alt="{{ .Title }} 이미지" class="card-image"> <!-- 이미지 경로를 .Params에서 가져옴 -->
+      <div class="card-content">
+        <h3>{{ .Title }}</h3> <!-- 제목을 .md 파일에서 가져옴 -->
+        <p>{{ .Params.summary }}</p> <!-- 요약을 .md 파일에서 가져옴 -->
+      </div>
+    </div>
+  {{ end }}
+</div>
