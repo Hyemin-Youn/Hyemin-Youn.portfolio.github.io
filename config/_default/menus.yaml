@@ -11,12 +11,20 @@ main:
   - name: Study
     url: 'https://hyemin-youn.github.io/Study'
     weight: 40
-  - name: Blog
-    url: 'https://blog.naver.com/yunemin'
+
+    //수정함
+ - name: Resources
     weight: 50
-  - name: Contact
-    url: 'https://hyemin-youn.github.io/contact/'
-    weight: 60
+    hasChildren: true
+  - parent: Resources
+    name: Blog
+    url: blog/
+  # - name: Blog
+  #   url: 'https://blog.naver.com/yunemin'
+  #   weight: 50
+  # - name: Contact
+  #   url: 'https://hyemin-youn.github.io/contact/'
+  #   weight: 60
 
  # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
