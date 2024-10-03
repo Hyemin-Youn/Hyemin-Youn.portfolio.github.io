@@ -11,8 +11,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Hyemin-Youn portfolio homepage</span>
-      text: <br><span style="font-size:125%;">윤혜민의 포트폴리오 홈페이지에 오신 것을 환영합니다😃
-      이메일 주소 hyemin9973@gmail.com 전화번호 010 - 9973 -5063 </span> 
+      text: <br><span style="font-size:125%;">윤혜민의 포트폴리오 홈페이지에 오신 것을 환영합니다😃</span> 
       
   - block: biography
     content:
