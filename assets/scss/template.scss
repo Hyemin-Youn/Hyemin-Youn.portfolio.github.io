@@ -40,15 +40,6 @@ body {
     box-shadow: none !important; // 'important' to override dark mode box-shadow too.
   }
 
-  //YHM로고 디자인
-  .logo {
-    font-family: 'Arial', sans-serif;
-    font-size: 24px;
-    font-weight: bold;
-    color: #333;
-  }
-
-
 
   // custom section padding
   .home-section {
@@ -128,4 +119,42 @@ body {
   }
 
  
-  
+  //new
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* 카드 간격 */
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05); /* 호버 시 카드 확대 효과 */
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card-content h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.card-content p {
+  margin: 10px 0 0;
+  color: #666;
+}
+
