@@ -41,7 +41,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license: true
-      enable: true
+      enable: 
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
