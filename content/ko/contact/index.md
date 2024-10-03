@@ -8,8 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-        <br> <span style="font-size:95%">문의하실 내용이 있으시면 연락주세요.</span> <br>
+      text: <br> <span style="font-size:95%">문의하실 내용이 있으시면 연락주세요.</span> <br>
     - Email: hyemin9973@gmail.com
     - Phone: 010-9973-5063
       address:
