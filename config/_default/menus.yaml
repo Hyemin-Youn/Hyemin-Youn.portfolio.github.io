@@ -3,7 +3,7 @@ main:
     url: ''
     weight: 10
   - name: About
-    url: '\about\index.md'
+    url: 'https://hyemin-youn.github.io/about/'
     weight: 20
   - name: Project
     url: 'https://hyemin-youn.github.io/Project'
