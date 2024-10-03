@@ -8,6 +8,6 @@ sections:
 
   - block: features
     content:
-      title: 
-      text: <br><span style="font-size:125%">MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
+      title: <span style="font-size:75%">Hyemin-Youn(윤혜민) 소개 </span>
+      text: <br><span style="font-size:125%">안녕하세요. 이 웹페이지에는 제가 대학생활을 하면서 한 동아리 활동과 프로젝트, 대외활동 등에 대한 내용이 기록되어 있습니다. 추후에는 개인프로젝트 등 컴퓨터공학 관련 포트폴리오로 활용할 계획입니다. </span>
 ---
