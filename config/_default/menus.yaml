@@ -8,6 +8,8 @@ main:
   - name: Project
     url: 'https://hyemin-youn.github.io/Project'
     weight: 30
+
+  #parent-child
   - name: Study
     weight: 40
     hasChildren: true
@@ -18,22 +20,19 @@ main:
     name: Node.js
     url: 'https://www.youtube.com/watch?v=Tt_tKhhhJqY'
 
-#수정함
+  #parent-child
   - name: Resources
     weight: 50
     hasChildren: true
   - parent: Resources
     name: Blog
     url: 'https://blog.naver.com/yunemin'
+    
   - name: Contact
     url: 'https://hyemin-youn.github.io/contact/'
     weight: 60
-  # - name: Blog
-  #   url: 'https://blog.naver.com/yunemin'
-  #   weight: 50
-  # - name: Contact
-  #   url: 'https://hyemin-youn.github.io/contact/'
-  #   weight: 60
+ 
+
 
  # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
