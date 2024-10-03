@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: 'http://www.google.com/schemas/sitemap/0.84'
+    google: '''
     baidu: ''
 
 # Site header
