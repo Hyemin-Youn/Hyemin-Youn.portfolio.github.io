@@ -92,6 +92,15 @@ body {
       max-width: 880px;
     }
   }
+
+  //수정
+  /* 다크 모드일 때 글꼴 색상 수정 */
+  @media (prefers-color-scheme: dark) {
+  body, p, h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* 검정색으로 설정 */
+    }
+  }
+
   
   // Custom avatar size on homepage
   .avatar {
