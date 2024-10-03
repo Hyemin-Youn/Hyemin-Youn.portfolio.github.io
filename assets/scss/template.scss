@@ -2,8 +2,8 @@
 // https://hugoblox.com/hugo-themes/
 
 body {
-    background-color: rgb(2, 1, 2);
-    
+    background-color: white;
+    color:black
   }
 
 
@@ -93,14 +93,6 @@ body {
     }
   }
 
-  //수정
-  /* 다크 모드일 때 글꼴 색상 수정 */
-  @media (prefers-color-scheme: dark) {
-  body, p, h1, h2, h3, h4, h5, h6 {
-    color: #000000; /* 검정색으로 설정 */
-    }
-  }
-
   
   // Custom avatar size on homepage
   .avatar {
@@ -127,4 +119,16 @@ body {
     font-size: 0.8rem;
   }
 
- 
+  //수정
+  .site-header {
+  position: fixed;   /* 헤더를 화면에 고정 */
+  top: 0;            /* 페이지의 최상단에 위치 */
+  width: 100%;       /* 전체 화면의 너비를 차지 */
+  z-index: 1000;     /* 다른 요소보다 위에 표시되도록 설정 */
+  background-color: white;  /* 배경색 지정 (선택 사항) */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 스크롤 시 그림자 (선택 사항) */
+  }
+
+  body {
+  padding-top: 60px;  /* 고정된 헤더로 인해 가려지지 않도록 여백을 추가 */
+  }
