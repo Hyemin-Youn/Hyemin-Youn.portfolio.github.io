@@ -9,8 +9,14 @@ main:
     url: 'https://hyemin-youn.github.io/Project'
     weight: 30
   - name: Study
-    url: 'https://hyemin-youn.github.io/Study'
     weight: 40
+    hasChildren: true
+  - parent: Study
+    name: JavaScript
+    url: 'https://www.youtube.com/watch?v=OdMfUv-BFT4&list=PLRtkynNyEsXnoY9KbbbLF9dPGGARLkCyU'
+  - parent: Study
+    name: Node.js
+    name: 'https://www.youtube.com/watch?v=Tt_tKhhhJqY'
 
 #수정함
   - name: Resources
