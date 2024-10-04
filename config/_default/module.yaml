@@ -18,32 +18,9 @@ mounts:
   - source: hugo-blox/blox/all-access
     target: layouts/partials/blox/
     includeFiles: '**.html'
-  - source: hugo-blox/blox/all-access
-    target: layouts/partials/views/
-    includeFiles: '**.html'
-  - source: hugo-blox/blox/all-access
-    target: layouts/partials/views/
-    includeFiles: '**.html'
-  - source: hugo-blox/blox/all-access
-    target: layouts/partials/views/
-    includeFiles: '**.html'
-  # - source: hugo-blox/blox
-  #   target: assets/dist/community/blox/
-  #   includeFiles: 'day.background.color.css'
-  # - source: hugo-blox/blox
-  #   target: assets/dist/community/blox/
-  #   includeFiles: 'day.hover.css'
-  # - source: hugo-blox/blox
-  #   target: assets/dist/community/blox/
-  #   includeFiles: 'night.background-color.css'
   - source: hugo-blox/blox
-    target: assets/dist/community/blox
-    includeFiles: ''
-  # - source: hugo-blox/blox
-    # target: assets/dist/community/blox/
-    # includeFiles: 'night.header.css'
-  - source: static/uploads
-    target: static/uploads
+    target: assets/dist/community/blox/
+    includeFiles: '**.css'
   - source: layouts
     target: layouts
   - source: assets
