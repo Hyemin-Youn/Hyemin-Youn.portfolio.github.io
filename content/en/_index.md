@@ -10,7 +10,7 @@ design:
 sections:
   - block: features
     content:
-      title: <span style="font-size:80%">Hyemin-Youn portfolio homepage</span>
+      title: <span style="font-size:125%">Hyemin-Youn portfolio homepage</span>
       text: <br><span style="font-size:100%;">😃Welcome to visit my website. Feel free to browse. Contact me by email hyemin9973@gmail.com Contact me by phone 010 - 9973 -5063 </span>
 
         
