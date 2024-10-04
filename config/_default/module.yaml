@@ -37,8 +37,8 @@ mounts:
   #   target: assets/dist/community/blox/
   #   includeFiles: 'night.background-color.css'
   - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: 'night.hover.css'
+    target: assets/dist/
+    includeFiles: 'color.css'
   # - source: hugo-blox/blox
     # target: assets/dist/community/blox/
     # includeFiles: 'night.header.css'
