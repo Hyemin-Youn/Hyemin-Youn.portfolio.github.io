@@ -1,0 +1,12 @@
+<section id="contact" class="contact-section">
+    <div class="container">
+      <h2>{{ .Params.sections.contact.content.title }}</h2>
+      <p>{{ .Params.sections.contact.content.text | markdownify }}</p>
+      <ul>
+        <li><strong>Email:</strong> {{ .Params.sections.contact.content.email }}</li>
+        <li><strong>Phone:</strong> {{ .Params.sections.contact.content.phone }}</li>
+        <li><strong>Address:</strong> {{ .Params.sections.contact.content.address.street }}, {{ .Params.sections.contact.content.address.city }}, {{ .Params.sections.contact.content.address.region }} {{ .Params.sections.contact.content.address.postcode }}, {{ .Params.sections.contact.content.address.country }}</li>
+      </ul>
+    </div>
+  </section>
+  
