@@ -37,8 +37,11 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
+    show_day_night: true
     show_search: true
     show_theme_chooser: true
+    show_language: true
+    show_logo: true
     
  
 
