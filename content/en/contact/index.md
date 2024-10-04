@@ -12,7 +12,7 @@ sections:
       email: hyemin9973@gmail.com
       phone: +82-10-9973-5063
       address:
-        street: 전북대학교 공과대학 7호관 626호
+        street: 전북대학교 공과대학 7호관
         city: 전주시
         region: 전라북도
         postcode: '54896'
