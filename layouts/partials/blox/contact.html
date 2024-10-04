@@ -3,10 +3,15 @@
       <h2>{{ .Params.sections.contact.content.title }}</h2>
       <p>{{ .Params.sections.contact.content.text | markdownify }}</p>
       <ul>
-        <li><strong>Email:</strong> {{ .Params.sections.contact.content.email }}</li>
-        <li><strong>Phone:</strong> {{ .Params.sections.contact.content.phone }}</li>
-        <li><strong>Address:</strong> {{ .Params.sections.contact.content.address.street }}, {{ .Params.sections.contact.content.address.city }}, {{ .Params.sections.contact.content.address.region }} {{ .Params.sections.contact.content.address.postcode }}, {{ .Params.sections.contact.content.address.country }}</li>
+        <li><strong>Email: hyemin9973@gmail.com</strong></li>
+        <li><strong>Phone: +82-10-9973-5063</strong></li>
+        <li><strong>Address: 전북특별자치도 전주시 덕진구 백제대로 567</strong></li>
       </ul>
+
+      <!-- OpenStreetMap embed -->
+      <div class="map">
+        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=127.13398838043214%2C35.84556544874156%2C127.13649690151216%2C35.846753849866516&amp;layer=mapnik&amp;marker=35.84615966044353%2C127.13524264097214" style="border: 1px solid black"></iframe>
+        <br/><small><a href="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524">큰 지도 보기</a></small>
+      </div>
     </div>
-  </section>
-  
+</section>
