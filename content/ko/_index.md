@@ -48,5 +48,20 @@ sections:
     content:
       title: Languages
       username: admin
-  
+
+  - block: contact
+    content:
+      title: "Contact"
+      text: "This is a contact section."
+      email: "hyemin9973@gmail.com"
+      phone: "+82-10-9973-5063"
+      address:
+        street: "전북대학교 공과대학 7호관"
+        city: "전주시"
+        region: "전라북도"
+        postcode: "54896"
+        country: "대한민국"
+        country_code: "KO"
+      autolink: true
+
 ---
