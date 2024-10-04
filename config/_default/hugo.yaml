@@ -39,3 +39,13 @@ imaging:
   quality: 80
   anchor: smart
 timeout: 600000
+taxonomies:
+  author: authors
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
