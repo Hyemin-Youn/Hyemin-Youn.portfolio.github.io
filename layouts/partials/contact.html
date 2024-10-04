@@ -1,0 +1,16 @@
+<section id="contact" class="contact-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>{{ .Params.sections.0.content.title }}</h2>
+        <p>{{ .Params.sections.0.content.text | markdownify }}</p>
+      </div>
+      <div class="contact-info">
+        <ul>
+          <li><strong>이메일:</strong> {{ .Params.sections.0.content.email }}</li>
+          <li><strong>전화:</strong> {{ .Params.sections.0.content.phone }}</li>
+          <li><strong>주소:</strong> {{ .Params.sections.0.content.address.street }}, {{ .Params.sections.0.content.address.city }}, {{ .Params.sections.0.content.address.region }} {{ .Params.sections.0.content.address.postcode }}, {{ .Params.sections.0.content.address.country }}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  
