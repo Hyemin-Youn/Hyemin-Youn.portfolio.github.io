@@ -40,7 +40,6 @@ header:
     # show_search: true
     # show_theme_chooser: true
 
-
 features:
   search:
     provider: wowchemy
