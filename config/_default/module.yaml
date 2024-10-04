@@ -27,9 +27,9 @@ mounts:
   - source: hugo-blox/blox/all-access
     target: layouts/partials/views/
     includeFiles: '**.html'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: 'day.background.color.css'
+  # - source: hugo-blox/blox
+  #   target: assets/dist/community/blox/
+  #   includeFiles: 'day.background.color.css'
   # - source: hugo-blox/blox
   #   target: assets/dist/community/blox/
   #   includeFiles: 'day.hover.css'
