@@ -37,9 +37,17 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
-    show_search: true
-    show_theme_chooser: true
-    
+    # show_search: true
+    # show_theme_chooser: true
+
+
+features:
+  search:
+    provider: wowchemy
+    wowchemy:
+      min_length: 1
+      threshold: 0.3
+
     
 
     
