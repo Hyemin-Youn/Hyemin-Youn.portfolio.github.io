@@ -20,19 +20,28 @@ mounts:
     includeFiles: '**.html'
   - source: hugo-blox/blox/all-access
     target: layouts/partials/views/
-    includeFiles: 'card.html'
+    includeFiles: '**.html'
   - source: hugo-blox/blox/all-access
     target: layouts/partials/views/
-    includeFiles: 'card.start.html'
+    includeFiles: '**.html'
   - source: hugo-blox/blox/all-access
     target: layouts/partials/views/
-    includeFiles: 'card.end.html'
+    includeFiles: '**.html'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
-    includeFiles: 'wc.min.css'
+    includeFiles: 'day.background.color.css'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
-    includeFiles: 'community--7870ce89.css'
+    includeFiles: 'day.hover.css'
+  - source: hugo-blox/blox
+    target: assets/dist/community/blox/
+    includeFiles: 'night.background-color.css'
+  - source: hugo-blox/blox
+    target: assets/dist/community/blox/
+    includeFiles: 'night.hover.css'
+  - source: hugo-blox/blox
+    target: assets/dist/community/blox/
+    includeFiles: 'night.header.css'
   - source: static/uploads
     target: static/uploads
   - source: layouts
