@@ -10,8 +10,12 @@ body {
     margin: 0;
     line-height: inherit;
     background-color: beige; /* 변경된 배경색 */  
-``}
+}
 
+  .font-medium {
+  font-weight: 500;
+  background-color: bisque;
+  }
 
   .article-container {
     background-color: #030103;
