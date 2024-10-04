@@ -30,18 +30,18 @@ mounts:
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     includeFiles: 'day.background.color.css'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: 'day.hover.css'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: 'night.background-color.css'
+  # - source: hugo-blox/blox
+  #   target: assets/dist/community/blox/
+  #   includeFiles: 'day.hover.css'
+  # - source: hugo-blox/blox
+  #   target: assets/dist/community/blox/
+  #   includeFiles: 'night.background-color.css'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     includeFiles: 'night.hover.css'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: 'night.header.css'
+  # - source: hugo-blox/blox
+    # target: assets/dist/community/blox/
+    # includeFiles: 'night.header.css'
   - source: static/uploads
     target: static/uploads
   - source: layouts
