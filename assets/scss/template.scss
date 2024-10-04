@@ -11,10 +11,16 @@ body {
     line-height: inherit;
     background-color: beige; /* 변경된 배경색 */  
 }
-  .bg-white {
-    --tw-bg-opacity: 1;
-    background-color: #fdf58b70;
-  }
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: white;
+}
+
+.bg-white:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(#fdf58b70);
+}
 
 
   .article-container {
