@@ -148,3 +148,31 @@ body {
   body {
   padding-top: 60px;  /* 고정된 헤더로 인해 가려지지 않도록 여백을 추가 */
   }
+
+  //fab icon 추가
+  .fab-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.fab {
+    width: 50px;
+    height: 50px;
+    background-color: #ff5733;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+}
+
+.fab:hover {
+    background-color: #ff6f61;
+}
