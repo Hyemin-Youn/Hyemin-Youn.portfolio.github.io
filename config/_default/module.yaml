@@ -20,7 +20,7 @@ mounts:
     includeFiles: '**.html'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
-    includeFiles: '**.css'
+    includeFiles: 'wc.min.css'
   - source: layouts
     target: layouts
   - source: assets
