@@ -1,17 +1,17 @@
 main:
-  # - name: Home
-  #   url: ''
-  #   weight: 10
+  - name: Home
+    url: ''
+    weight: 10
   - name: About
     url: about
-    weight: 10
+    weight: 20
   - name: Project
     url: 'https://hyemin-youn.github.io/Project'
-    weight: 20
+    weight: 30
 
   #parent-child
   - name: Study
-    weight: 30
+    weight: 40
     hasChildren: true
   - parent: Study
     name: JavaScript
@@ -22,7 +22,7 @@ main:
 
   #parent-child
   - name: Resources
-    weight: 400
+    weight: 50
     hasChildren: true
   - parent: Resources
     name: Blog
@@ -30,7 +30,7 @@ main:
     
   - name: Contact
     url: 'https://hyemin-youn.github.io/contact/'
-    weight: 50
+    weight: 60
  
 
 
