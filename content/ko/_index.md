@@ -11,7 +11,7 @@ sections:
     content:
       title: <span style="font-size:125%">Hyemin-Youn portfolio homepage</span>
       text: |-
-        <br><span style="font-size:100%;">윤혜민의 포트폴리오 홈페이지에 오신 것을 환영합니다😃 이메일 hyemin9973@gmail.com 연락처 010-9973-5063</span>
+        <br><span style="font-size:100%;">윤혜민의 포트폴리오 홈페이지에 오신 것을 환영합니다😃</span>
         <br><br>
         <!-- 카드 레이아웃 시작 -->
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
