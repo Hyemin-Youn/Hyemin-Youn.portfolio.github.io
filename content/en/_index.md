@@ -33,7 +33,7 @@ sections:
 
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
 
   - block: awards
@@ -41,10 +41,11 @@ sections:
       title: Projects
       username: admin
 
-  - block: languages
+  - block: hobbies
     content:
-      title: Languages
+      title: Hobbies
       username: admin
+
 
   # Languages 아래에 카드 섹션 추가
   - block: cards
