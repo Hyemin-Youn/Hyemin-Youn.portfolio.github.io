@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 정치외교학과 21학번 윤혜민입니다. 메일이나 연락처로 편하게 연락주세요.</span> <br>
+        <br> <span style="font-size:95%">전북대학교 정치외교학과&IT정보공학과(복수전공) 21학번 윤혜민입니다. 메일이나 연락처로 편하게 연락주세요.메일이나 연락처로 편하게 연락주세요.</span> <br>
       email: hyemin9973@gmail.com
       phone: +82-10-9973-5063
       address:
