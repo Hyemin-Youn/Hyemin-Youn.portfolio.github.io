@@ -182,3 +182,15 @@ body {
   max-width: 100%;
   height: auto;
 }
+
+.hover\:text-primary-700:hover {
+  --tw-text-opacity: 1;
+  color: #8be9fd;
+  background-color: black;
+}
+
+
+:is(.dark .dark\:hover\:bg-gray-700:hover) {
+  --tw-bg-opacity: 1;
+  background-color: darkgrey;
+}
