@@ -41,12 +41,7 @@ sections:
       title: Projects
       username: admin
 
-  - block: languages
-    content:
-      title: Languages
-      username: admin
-
-  # Languages 아래에 카드 섹션 추가
+  # 카드 섹션 추가 (Languages를 제거하고 Projects 아래에 추가)
   - block: cards
     content:
       title: More Projects
@@ -78,4 +73,3 @@ sections:
         </div>
         <!-- 카드 레이아웃 끝 -->
 ---
-
