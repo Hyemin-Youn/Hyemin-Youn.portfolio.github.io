@@ -79,38 +79,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 기술 스택
-    items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 60
-        icon: devicon/rstudio
-      - name: C++
-        description: ''
-        percent: 40
-        icon: devicon/c++
 
-hobbies:
-  - name: 취미
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Listening to music
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Playing a guitar
-        description: ''
-        percent: 60
-        icon: cat
-      - name: Traveling
-        description: ''
-        percent: 80
-        icon: camera
+
+languages:
 
 
 # Awards.
