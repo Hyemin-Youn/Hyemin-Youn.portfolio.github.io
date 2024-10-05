@@ -32,7 +32,7 @@ sections:
 
           <!-- 두 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <img src="images/WELCOME.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>Project 2</h3>
             <p>A brief description of the second project.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
@@ -40,7 +40,7 @@ sections:
 
           <!-- 세 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <img src="images/CONTACT.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>Project 3</h3>
             <p>A brief description of the third project.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
