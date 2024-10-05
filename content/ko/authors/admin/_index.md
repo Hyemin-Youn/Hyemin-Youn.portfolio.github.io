@@ -121,8 +121,8 @@ awards:
     url: https://hyemin-youn.github.io/project
     execution_url: https://hyemin-youn.github.io/project
     date: '2023-03-02'
-    awarder: cousera
-    icon: cousera
+    awarder: Coursera
+    icon: Coursera
     summary: |
       공공데이터 API를 활용하여 대한민국 전국을 8도로 나누어 지역별 미세먼지 농도를 지도에 시각화하는 프로젝트를 수행하였습니다. 언어는 파이썬이 사용되었습니다.
       <img src="/images/game.jpg" alt="미세먼지 지도 시각화" style="width:100%; border-radius: 10px;">
