@@ -56,7 +56,7 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
           <!-- 첫 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <img src="C:\Users\삼성노트북\Desktop\test\Hyemin-Youn.github.io\images\researchpaper.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>Project 1</h3>
             <p>Brief description of Project 1.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
