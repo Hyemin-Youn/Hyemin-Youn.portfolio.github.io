@@ -29,6 +29,6 @@ sections:
       columns: '3'
 
     map:
-      src="https://www.openstreetmap.org/export/embed.html?bbox=127.13398838043214%2C35.84556544874156%2C127.13649690151216%2C35.846753849866516&amp;layer=mapnik&amp;marker=35.84615966044353%2C127.13524264097214&amp;lang=ko" 
+      src="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524" 
 ---
 
