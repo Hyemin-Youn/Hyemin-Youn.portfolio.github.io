@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: "0.2rem"
+  spacing: "0.5rem"
 
 sections:
   - block: features
@@ -35,6 +35,21 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+
+  - block: awards
+    content:
+      title: Projects
+      username: admin
+
+  - block: languages
+    content:
+      title: Languages
+      username: admin
+
+  # Languages 아래에 카드 섹션 추가
+  - block: cards
+    content:
+      title: More Projects
       text: |-
         <br>
         <!-- 카드 레이아웃 시작 -->
@@ -62,15 +77,5 @@ sections:
           </div>
         </div>
         <!-- 카드 레이아웃 끝 -->
-
-  - block: awards
-    content:
-      title: Projects
-      username: admin
-
-  - block: languages
-    content:
-      title: Languages
-      username: admin
-
 ---
+
