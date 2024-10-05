@@ -41,15 +41,15 @@ sections:
       title: Projects
       username: admin
 
-  # - block: languages
-  #   content:
-  #     title: Languages
-  #     username: admin
+  - block: languages
+    content:
+      title: Languages
+      username: admin
 
   # 카드 섹션 추가 (Languages를 제거하고 Projects 아래에 추가)
   - block: cards
     content:
-      title: Hobbies & Interests
+      title: More Projects
       text: |-
         <br>
         <!-- 카드 레이아웃 시작 -->

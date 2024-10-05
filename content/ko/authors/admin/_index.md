@@ -76,7 +76,7 @@ skills:
 
     
 
-cards:
+languages:
 
 
 
