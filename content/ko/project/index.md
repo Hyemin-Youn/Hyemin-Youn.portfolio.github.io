@@ -24,7 +24,7 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
           <!-- 첫 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="media/researchpaper.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
+            <img src="/images/researchpaper.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
             <h3>Research Paper</h3>
             <p>Overview of a research paper I have written.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
@@ -46,6 +46,4 @@ sections:
         </div>
         <!-- 카드 레이아웃 끝 -->
 
-
 ---
-
