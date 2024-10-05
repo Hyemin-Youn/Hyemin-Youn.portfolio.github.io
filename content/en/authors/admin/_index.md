@@ -79,7 +79,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 기술 스택
     items:
       - name: Python
         description: ''
@@ -93,7 +93,9 @@ skills:
         description: ''
         percent: 40
         icon: devicon/c++
-  - name: Hobbies
+
+hobbies:
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -109,12 +111,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: Korean
-    percent: 100
-  - name: English 
-    percent: 75
 
 
 # Awards.

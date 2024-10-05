@@ -87,6 +87,8 @@ skills:
         description: ''
         percent: 40
         icon: devicon/c++
+
+hobbies:
   - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -103,14 +105,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: 한국어
-    percent: 100
-  - name: 영어 
-    percent: 75
-
-
 
 # Awards.
 #   Add/remove as many awards below as you like.
