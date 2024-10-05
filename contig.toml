@@ -1,0 +1,8 @@
+defaultContentLanguage = "ko"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.ko]
+    languageName = "한국어"
+    weight = 2

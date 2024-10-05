@@ -1,72 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
-    <!-- FontAwesome CSS 링크 -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5dc;
-            margin: 0;
-            padding: 0;
-        }
-        .contact-section {
-            padding: 50px 0;
-            text-align: center;
-        }
-        .contact-section h2 {
-            font-size: 2em;
-            margin-bottom: 20px;
-        }
-        .contact-section ul {
-            list-style: none;
-            padding: 0;
-            margin: 20px 0;
-        }
-        .contact-section ul li {
-            font-size: 1.2em;
-            margin-bottom: 10px;
-        }
-        .map {
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
-
 <section id="contact" class="contact-section">
-    <div class="container" style="text-align: center;">
-        <!-- 제목 및 설명 -->
-        <h2>Contact</h2>
-        <p>전북대학교 정치외교학과 21학번 윤혜민입니다. 메일이나 연락처로 편하게 연락주세요.</p>
+  <div class="container" style="text-align: center;">
+      {{ if .Site.IsServer }} <!-- 서버에 맞는 로직 -->
+      <h2>{{ i18n "contactTitle" }}</h2>
+      <p>{{ i18n "contactDescription" }}</p>
 
-        <!-- 연락처 정보 리스트 -->
-        <ul style="list-style: none; padding: 0;">
-            <li><strong><i class="fas fa-envelope"></i> Email: hyemin9973@gmail.com</strong></li>
-            <li><strong><i class="fas fa-phone"></i> Phone: +82-10-9973-5063</strong></li>
-            <li><strong><i class="fas fa-map-marker-alt"></i> Address: 전북특별자치도 전주시 덕진구 백제대로 567</strong></li>
-        </ul>
-
-        <!-- OpenStreetMap 임베드 -->
-        <div class="map" style="text-align: center;">
-            <iframe 
-                width="425" 
-                height="350" 
-                frameborder="0" 
-                scrolling="no" 
-                marginheight="0" 
-                marginwidth="0" 
-                src="https://www.openstreetmap.org/export/embed.html?bbox=127.13398838043214%2C35.84556544874156%2C127.13649690151216%2C35.846753849866516&amp;layer=mapnik&amp;marker=35.84615966044353%2C127.13524264097214&amp;lang=ko" 
-                style="border: 1px solid black; display: inline-block;">
-            </iframe>
-            <br/>
-            <small><a href="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524">큰 지도 보기</a></small>
-        </div>
-    </div>
+      <ul style="list-style: none; padding: 0;">
+          <li><strong><i class="fas fa-envelope"></i> Email: hyemin9973@gmail.com</strong></li>
+          <li><strong><i class="fas fa-phone"></i> Phone: +82-10-9973-5063</strong></li>
+          {{ if eq .Site.Language.Lang "ko" }}
+          <li><strong><i class="fas fa-map-marker-alt"></i> Address: 전북특별자치도 전주시 덕진구 백제대로 567</strong></li>
+          {{ else if eq .Site.Language.Lang "en" }}
+          <li><strong><i class="fas fa-map-marker-alt"></i> Address: 567 Baekje-daero, Deokjin-gu, Jeonju, Jeollabuk-do, Korea</strong></li>
+          {{ end }}
+      </ul>
+      
+      <div class="map" style="text-align: center;">
+          <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+          src="https://www.openstreetmap.org/export/embed.html?bbox=127.13398838043214%2C35.84556544874156%2C127.13649690151216%2C35.846753849866516&amp;layer=mapnik&amp;marker=35.84615966044353%2C127.13524264097214&amp;lang={{ .Site.Language.Lang }}" 
+          style="border: 1px solid black;"></iframe>
+          <br/>
+          {{ if eq .Site.Language.Lang "ko" }}
+          <small><a href="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524">큰 지도 보기</a></small>
+          {{ else if eq .Site.Language.Lang "en" }}
+          <small><a href="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524">View larger map</a></small>
+          {{ end }}
+      </div>
+      {{ end }}
+  </div>
 </section>
-
-</body>
-</html>
