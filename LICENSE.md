@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+favicon was generated using the following font:
+
+- Font Title: Protest Riot
+- Font Author: Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)
+- Font Source: https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkrM1_JgjmRpOA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)

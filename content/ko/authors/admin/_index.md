@@ -45,7 +45,6 @@ education:
     summary: |
       전북대학교에서 IT정보공학과 복수전공을 하고 있습니다. 
     button:
-      icon: <i class="fas fa-laptop-code"></i>
       text: '전북대학교 컴퓨터인공지능학부(IT정보공학과)'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
   - area: 정치외교학과
@@ -55,7 +54,6 @@ education:
     summary: |
       전북대학교에서 정치외교학을 공부하고 있습니다.
     button:
-      icon: <i class="fa-solid fa-book"></i>
       text: '전북대학교 정치외교학과'
       url: 'https://pol.jbnu.ac.kr/pol/index.do'
   
@@ -63,7 +61,7 @@ work:
   - position: 코멘토 직무부트캠프
     company_name: 코멘토
     company_url: 'https://comento.kr/?index'
-    company_logo: <i class="fa-solid fa-briefcase"></i>
+    company_logo: ''
     date_start: 2024-07-07
     date_end: 2024-08-04
     summary: |2-
