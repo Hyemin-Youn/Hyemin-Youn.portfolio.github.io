@@ -29,6 +29,7 @@ sections:
             <p>Overview of a research paper I have written.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
+
           <!-- 두 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
             <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
@@ -36,6 +37,7 @@ sections:
             <p>A brief description of the second project.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
+
           <!-- 세 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
             <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
