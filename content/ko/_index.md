@@ -41,9 +41,9 @@ sections:
       title: Projects
       username: admin
 
-  - block: hobbies & intersts
+  - block: languages
     content:
-      title: Hobbies & Interests
+      title: Languages
       username: admin
 
   # 카드 섹션 추가 (Languages를 제거하고 Projects 아래에 추가)
