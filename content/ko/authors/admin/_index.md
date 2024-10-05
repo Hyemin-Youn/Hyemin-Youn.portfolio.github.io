@@ -120,29 +120,30 @@ awards:
   - title: 공공데이터 API를 이용한 미세먼지 지도 시각화(파이썬)
     url: https://hyemin-youn.github.io/project
     execution_url: https://hyemin-youn.github.io/project
-    date: '2023-11-25'
-    awarder: 
-    icon: fas fa-server
+    date: '2023-03-02'
+    awarder: cousera
+    icon: cousera
     summary: |
       공공데이터 API를 활용하여 대한민국 전국을 8도로 나누어 지역별 미세먼지 농도를 지도에 시각화하는 프로젝트를 수행하였습니다. 언어는 파이썬이 사용되었습니다.
       <img src="/images/game.jpg" alt="미세먼지 지도 시각화" style="width:100%; border-radius: 10px;">
   - title: 파이썬 파이게임을 이용한 두더지 피하기 게임(파이썬)
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    project_pdf: https://www.datacamp.com
-    date: '2023-07-01'
+    url: https://hyemin-youn.github.io/project
+    project_pdf: https://hyemin-youn.github.io/project
+    date: '2023-09-03'
     awarder: edX
     icon: edx
     summary: |
       파이썬의 pygame을 활용하여 키보드 방향키로 캐릭터를 움직여 두더지를 피하는 파이게임을 만들었습니다.
+      <img src="/images/api.jpg" alt="미세먼지 지도 시각화" style="width:100%; border-radius: 10px;">
   - title: 사칙연산 계산기 프로그램 (C언어)
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    url: https://hyemin-youn.github.io/project
+    certificate_url: https://hyemin-youn.github.io/project
+    date: '2024-03-02'
     awarder: datacamp
     icon: datacamp
     summary: |
       C언어를 배우고, 사칙연산을 활용하여 콘솔 창에 질문에 대한 정보를 입력하면 계산이 되는 계산기 프로그램을 만들었습니다.
-
+      <img src="/images/calculator.jpg" alt="미세먼지 지도 시각화" style="width:100%; border-radius: 10px;">
 ---
 안녕하세요 윤혜민의 포트폴리오 페이지에 오신 걸 환영합니다!
 본전공은 정치외교학이고, 2023년부터 복수전공을 시작하여 전북대학교에서 컴퓨터공학을 공부하고 있습니다.
