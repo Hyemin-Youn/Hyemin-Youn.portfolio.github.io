@@ -34,7 +34,34 @@ sections:
   - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
+      username: admin     
+  - block: cards
+    content:
+      title: More Projects
+      text: |-
+        <br>
+        <!-- 카드 레이아웃 시작 -->
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+          <!-- 첫 번째 카드 -->
+          <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
+            <img src="images/climb.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
+            <h3>클라이밍</h3>
+            <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
+          </div>
+          <!-- 두 번째 카드 -->
+          <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
+            <img src="images/music.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <h3>음악 듣기</h3>
+            <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
+          </div>
+          <!-- 세 번째 카드 -->
+          <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
+            <img src="images/guitar.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <h3>기타 연주</h3>
+            <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
+          </div>
+        </div>
+        <!-- 카드 레이아웃 끝 -->
 
   - block: awards
     content:
@@ -45,8 +72,6 @@ sections:
     content:
       title: Languages
       username: admin
-
-  # Languages 아래에 카드 섹션 추가
   - block: cards
     content:
       title: More Projects
@@ -56,23 +81,20 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
           <!-- 첫 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="C:\Users\삼성노트북\Desktop\test\Hyemin-Youn.github.io\images\researchpaper.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>Project 1</h3>
-            <p>Brief description of Project 1.</p>
+            <img src="images/climb.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
+            <h3>클라이밍</h3>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
           <!-- 두 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>Project 2</h3>
-            <p>Brief description of Project 2.</p>
+            <img src="images/music.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <h3>음악 듣기</h3>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
           <!-- 세 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="https://via.placeholder.com/300x200" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>Project 3</h3>
-            <p>Brief description of Project 3.</p>
+            <img src="images/guitar.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <h3>기타 연주</h3>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
         </div>
