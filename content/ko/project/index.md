@@ -27,8 +27,8 @@ sections:
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
             <img src="/images/rabbit.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
             <h3>Research Paper</h3>
-            <p>Overview of a research paper I have written.</p>
-            <a href="/uploads/pygame.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <p>미세먼지 지도 시각화 </p>
+            <a href="/uploads/pygame.pdf" style="color: #007bff; text-decoration: none;">See more</a>
           </div>
         </div>
 
