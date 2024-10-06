@@ -1,5 +1,5 @@
 ---
-title: "About Hyemin Youn"
+title: "About 윤혜민"
 date: 2023-10-05
 type: landing
 
@@ -15,7 +15,7 @@ sections:
 
         2024년 1학기 데이터베이스 수업을 수강한 후 7월 빅데이터 직무부트캠프를 수강하고 데이터베이스를 자세히 다루는 실습을 하면서 DBA의 꿈을 갖게 되었습니다. ERD, MongoDB, RDBMS, NoSQL 등 꾸준히 공부하고자 합니다.
 
-        현재는 웹서비스설계, 데이터통신, C++프로그래밍, 이산수학, 컴퓨터공학총론을 수강중입니다.
+        현재는 웹서비스설계, 데이터통신, C++프로그래밍, 이산수학, 컴퓨터공학총론을 수강 중입니다.
 
   # Biography section
   - block: biography
@@ -40,6 +40,14 @@ sections:
                 <li>개발 (Development & Deploy)</li>
               </ul>
             </div>
-        
-          
----
+
+            <!-- 학위 -->
+            <div class="profile-education">
+              <h3>학위</h3>
+              <p><i class="fas fa-graduation-cap"></i> 정치외교학 학사</p>
+              <p>전북대학교</p>
+
+              <p><i class="fas fa-graduation-cap"></i> IT정보공학 학사</p>
+              <p>전북대학교</p>
+            </div>
+          </div>

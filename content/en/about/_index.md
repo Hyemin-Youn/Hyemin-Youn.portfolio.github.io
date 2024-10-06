@@ -44,10 +44,10 @@ sections:
             <!-- Degrees -->
             <div class="profile-education">
               <h3>Degrees</h3>
-              <p><i class="fas fa-graduation-cap"></i> B.S. in Political Science & Diplomacy (Expected 2024)</p>
+              <p><i class="fas fa-graduation-cap"></i> B.S. in Political Science & Diplomacy </p>
               <p>Chonbuk National University</p>
 
-              <p><i class="fas fa-graduation-cap"></i> B.S. in IT Information Engineering (Expected 2025)</p>
+              <p><i class="fas fa-graduation-cap"></i> B.S. in IT Information Engineering </p>
               <p>Chonbuk National University</p>
             </div>
           </div>
