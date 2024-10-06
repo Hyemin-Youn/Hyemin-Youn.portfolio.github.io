@@ -33,7 +33,7 @@ sections:
 
   - block: skills
     content:
-      title: Languages
+      title: Learning languages
       username: admin     
   - block: card1
     content:
