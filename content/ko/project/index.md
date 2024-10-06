@@ -24,28 +24,27 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
           <!-- 첫 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="images/rabbit.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
+            <img src="/images/rabbit.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
             <h3>Research Paper</h3>
             <p>Overview of a research paper I have written.</p>
-            <a href="uploads/pygame.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <a href="/uploads/pygame.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
 
           <!-- 두 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="images/cal.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <img src="/images/cal.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>Project 2</h3>
             <p>A brief description of the second project.</p>
-            <a href="uploads/calculator.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <a href="/uploads/calculator.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
 
           <!-- 세 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="images/map.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
+            <img src="/images/map.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>Project 3</h3>
             <p>A brief description of the third project.</p>
-            <a href="uploads/api.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <a href="/uploads/api.pdf" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
         </div>
         <!-- 카드 레이아웃 끝 -->
-
 ---
