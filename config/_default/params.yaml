@@ -44,7 +44,11 @@ header:
     show_logo: true
     
  
-
+languages:
+  en:
+    weight: 1
+  ko:
+    weight: 2
     
 
 # Site footer

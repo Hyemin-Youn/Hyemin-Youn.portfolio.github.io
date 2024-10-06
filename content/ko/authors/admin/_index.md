@@ -44,8 +44,8 @@ education:
     summary: |
       전북대학교에서 IT 정보공학과 복수전공을 하고 있습니다.
     button:
-      text: '전북대학교 컴퓨터과학 & AI'
+      text: 전북대학교 컴퓨터공학과
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
   - area: 정치외교학과
     institution: 전북대학교
-    
+---
