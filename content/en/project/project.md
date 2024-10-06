@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: Project
 date: 2023-10-05
 type: landing
 
@@ -16,7 +16,7 @@ sections:
       text: |-
         <br><span style="font-size:100%">Hello! This webpage contains records of my extracurricular activities, projects, and external activities during my university life. In the future, I plan to use it as a portfolio for my personal projects related to computer science.</span>
 
-  - block: project
+  - block: awards
     content:
       title: Featured Projects
       text: |-
