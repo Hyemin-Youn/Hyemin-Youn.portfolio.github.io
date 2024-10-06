@@ -29,7 +29,7 @@ sections:
             <p>대학생</p>
             <p>전북대학교 정치외교학과, IT정보공학과(복수전공)</p>
         
-            <!-- 소셜 아이콘 -->
+          <!-- 소셜 아이콘 -->
             <div class="profile-icons" style="margin-top: 10px;">
               <a href="mailto:hyemin99.com" class="icon" style="margin-right: 10px;">
                 <i class="fas fa-envelope"></i>
@@ -58,7 +58,7 @@ sections:
               </ul>
             </div>
         
-            <!-- 학위 -->
+          <!-- 학위 -->
             <div class="profile-education">
               <h3>학위</h3>
               <p>
@@ -72,4 +72,5 @@ sections:
             </div>
           </div>
         </div>
+            
 ---
