@@ -35,7 +35,7 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin     
-  - block: cards
+  - block: card1
     content:
       title: More Projects
       text: |-
