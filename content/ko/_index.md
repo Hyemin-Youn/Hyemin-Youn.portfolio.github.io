@@ -33,7 +33,7 @@ sections:
 
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Languages
       username: admin     
   - block: card1
     content:
@@ -70,7 +70,7 @@ sections:
 
   - block: languages
     content:
-      title: Languages
+      title: Hobbies
       username: admin
   - block: cards
     content:
