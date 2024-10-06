@@ -13,11 +13,10 @@ sections:
       text: |
         안녕하세요! 저는 전북대학교에서 정치외교학과와 IT정보공학과를 복수전공하고 있는 윤혜민입니다. 학업과 함께 다양한 프로젝트를 통해 개발에 관심을 가지고 성장해가고 있습니다.
 
-  # Profile section (프로필 섹션)
-  - block: profile
+  # Biography section
+  - block: biography
     content:
       text: |-
-        <!-- 프로필 컨테이너 -->
         <div class="profile-container">
           <!-- 프로필 사진 -->
           <div class="profile-image">
@@ -73,5 +72,3 @@ sections:
             </div>
           </div>
         </div>
----
-

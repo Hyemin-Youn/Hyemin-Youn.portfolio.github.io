@@ -183,3 +183,32 @@ body {
   --tw-bg-opacity: 1;
   background-color: darkgrey;
 }
+
+//new
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image img {
+  border-radius: 50%;
+}
+
+.profile-info {
+  text-align: center;
+}
+
+.profile-icons {
+  margin-top: 10px;
+}
+
+.profile-icons a {
+  margin-right: 10px;
+}
+
+.profile-details {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
