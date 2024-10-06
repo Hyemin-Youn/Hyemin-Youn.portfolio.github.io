@@ -1,6 +1,6 @@
----
+--- 
 # Display name
-title: 윤혜민
+title: Hyemin Youn
 
 # Name pronunciation (optional)
 name_pronunciation: Hyemin-Youn
@@ -17,15 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: university student
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Jeonbuk National University
+  - name: Chonbuk National University
     url: https://www.jbnu.ac.kr/kor/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:hyemin9973@gmail.com'
@@ -38,81 +37,67 @@ profiles:
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
 education:
-  - area: Computer Engineering
-    institution: Jeonbuk Natinal University
+  - area: Department of Computer Science and Engineering
+    institution: Chonbuk National University
     date_start: 2023-03-02
     date_end: 2025-08-31
     summary: |
-      Computer Engineering is my second major. I am doing double major in Jeonbuk National University. I want to be a DBA engineer in the future.
+      I am pursuing a dual degree in IT Information Engineering at Chonbuk National University.
     button:
-      text: 'JBNU SCAI'
+      text: 'Chonbuk National University Computer Science & AI'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
-  - area: Political Science and Diplomacy
-    institution: Jeonbuk National University
+  - area: Department of Political Science and Diplomacy
+    institution: Chonbuk National University
     date_start: 2021-03-02
     date_end: 2024-06-21
     summary: |
-      I entered university in major of political science and diplomacy having a dream to be a diplomat. I was so touched by Niccolo Machiavelli after reading <The Prince>.
+      I have been studying political science and diplomacy at Chonbuk National University.
     button:
-      text: 'JBNU POL'
+      text: 'Chonbuk National University Political Science & Diplomacy'
       url: 'https://pol.jbnu.ac.kr/pol/index.do'
   
-
- 
 work:
-  - position: COMENTO JOB BOOT CAMP -BIG DATA
-    company_name: comento
+  - position: Comento Job Bootcamp
+    company_name: Comento
     company_url: 'https://comento.kr/?index'
     company_logo: ''
     date_start: 2024-07-07
     date_end: 2024-08-04
     summary: |2-
-      Responsibilities include:
-      - Calculating budget of using RDBMS.
-      - Designing ERD, transfering datas and using MongoDB.
-      - Finding errors among database.
+      Experienced all types of practical tasks as a Data Engineer and explored career strategies: my experience made me aspire to become a DBA.
     button:
-      text: 'see_certificate'
-      url: '/uploads/certification.pdf'
-
-
+      text: 'Job Bootcamp Certificate'
+      url: 'uploads/certification.pdf'
+    
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-
 
 languages:
 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Fine-Dust Map Visualization Using Public Data API
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    execution_url: https://www.edx.org/
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Fine Dust Visualization Using Public Data API (Python)
+    url: https://hyemin-youn.github.io/project
+    certificate_url: "uploads/api.pdf"
+    date: '2023-03-02'
     summary: |
-      I carried out a project that visualized fine dust concentrations across South Korea by dividing the country into 8 regions using a public data API. The project was implemented using Python.
-  - title: Pygame in Python
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    project_pdf: https://www.datacamp.com
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Using the Public Data API, I created a project that visualized fine dust concentration across South Korea, divided into 8 regions. Python was the language used for this project.
+      <img src="images/game.jpg" alt="Fine Dust Visualization" style="width:100%; border-radius: 10px;">
+  - title: Whack-a-Mole Game Using Python's Pygame (Python)
+    url: https://hyemin-youn.github.io/project
+    certificate_url: "uploads/pygame.pdf"
+    date: '2023-09-03'
     summary: |
-      I created a Pygame using Python's Pygame library, where the character is controlled using the keyboard arrow keys to avoid moles.
-  - title: Calculating Program in C 
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Created a Whack-a-Mole game where players can move characters using keyboard arrow keys to avoid moles. Python's Pygame library was used.
+      <img src="images/api.jpg" alt="Whack-a-Mole Game" style="width:100%; border-radius: 10px;">
+  - title: Basic Arithmetic Calculator Program (C Language)
+    url: https://hyemin-youn.github.io/project
+    certificate_url: "uploads/calculator.pdf"
+    date: '2024-03-02'
     summary: |
-       I have learned C language and created a calculator program that performs arithmetic operations. It allows users to input information through the console and provides the calculation results.
+      After learning C programming, I built a basic arithmetic calculator program where users can input data through the console, and the program provides calculated results.
+      <img src="images/calculator.jpg" alt="Calculator Program" style="width:100%; border-radius: 10px;">
 ---
-Hello, Welcome to visit "Hyemin-Youn" website!
-I'm studying computer engineering and political science in Jeonbuk Natinoal University.
+
+Welcome to Hyemin Youn's portfolio page!
+My primary major is Political Science and Diplomacy, and since 2023, I have been studying Computer Science as a dual degree at Chonbuk National University.
