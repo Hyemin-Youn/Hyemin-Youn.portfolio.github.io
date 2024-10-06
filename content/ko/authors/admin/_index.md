@@ -48,4 +48,9 @@ education:
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
   - area: 정치외교학과
     institution: 전북대학교
+    summary: |
+      전북대학교 정치외교학과 21학번으로 입학했습니다.
+    button:
+      text: 전북대학교 정치외교학과
+      url: 'https://pol.jbnu.ac.kr/pol/index.do'
 ---
