@@ -31,7 +31,7 @@ sections:
         
             <!-- Social Icons -->
             <div class="profile-icons" style="margin-top: 10px;">
-              <a href="mailto:hyemin99.com" class="icon" style="margin-right: 10px;">
+              <a href="mailto:hyemin9973@gmail.com" class="icon" style="margin-right: 10px;">
                 <i class="fas fa-envelope"></i>
               </a>
               <a href="/uploads/pygame.pdf" class="icon" style="margin-right: 10px;">

@@ -17,11 +17,6 @@ sections:
   - block: biography
     content:
       text: |
-        <div class="profile-container">
-          <!-- 프로필 사진 -->
-          <div class="profile-image">
-            <img src="/avatar.jpg" alt="Profile Image" style="width: 150px; border-radius: 50%;">
-          </div>
         
           <!-- 이름과 직책 -->
           <div class="profile-info">
