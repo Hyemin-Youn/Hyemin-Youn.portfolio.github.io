@@ -1,8 +1,7 @@
 본 콘덴츠는 2024년 2학기 웹서비스설계 수업의 과제1 MARKDOWN언어 HUGO Website 생성을 위해 제작되었습니다.
 # [Hyemin-Youn Portfolio Homepage](https://hyemin-youn.github.io/Hyemin-Youn.github.io/)
 
-[![Screenshot](./.github/preview1.png)](https://hyemin-youn.github.io/Hyemin-Youn.github.io/)
-
+[![Screenshot](./.github/preview1.png)]
 The Hugo **Résumé Template** empowers you to easily create your job-winning online résumé, showcase your expertise, and share your social profiles to grow your audience.
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
