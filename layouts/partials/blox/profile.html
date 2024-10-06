@@ -1,40 +1,125 @@
-<div class="profile-container">
-    <!-- 프로필 사진 -->
-    <div class="profile-image">
-      <img src="/avatar.jpg" alt="Profile Image">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Hyemin Youn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .profile img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+
+        .profile h1 {
+            font-size: 2rem;
+            margin: 15px 0 10px;
+        }
+
+        .profile p {
+            color: #666;
+            margin: 0;
+            font-size: 1rem;
+        }
+
+        .contact-icons {
+            margin-top: 15px;
+        }
+
+        .contact-icons a {
+            margin: 0 10px;
+            color: #007bff;
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+
+        .contact-icons a:hover {
+            color: #0056b3;
+        }
+
+        .section {
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        .section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .section ul li {
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+
+        .section ul li::before {
+            content: "•";
+            color: #007bff;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="profile">
+        <img src="/images/hyemin-profile.jpg" alt="Hyemin Youn Profile Picture">
+        <h1>윤혜민</h1>
+        <p>전북대학교 대학생</p>
+
+        <div class="contact-icons">
+            <a href="mailto:hyemin9973@gmail.com">✉</a>
+            <a href="https://github.com/hyemin-youn">🐙</a>
+            <a href="https://linkedin.com/in/hyemin-youn">🔗</a>
+        </div>
     </div>
-    
-    <!-- 이름과 직책 -->
-    <div class="profile-info">
-      <h2>윤혜민</h2>
-      <p>대학생</p>
-      <p>전북대학교 정치외교학과, IT정보공학과(복수전공)</p>
-  
-    
-    <!-- 관심 분야 및 학위 -->
-    <div class="profile-details">
-      <!-- 관심 분야 -->
-      <div class="profile-interests">
-        <h3>관심 분야</h3>
+
+    <div class="section">
+        <h2>관심 분야</h2>
         <ul>
-          <li>인공지능 (AI)</li>
-          <li>클라우드</li>
-          <li>개발 (Development & Deploy)</li>
+            <li>웹 개발 (Frontend & Backend)</li>
+            <li>빅 데이터 분석</li>
+            <li>인공지능 및 머신러닝</li>
+            <li>프로젝트 매니지먼트</li>
         </ul>
-      </div>
-  
-    학위
-    <div class="profile-education">
-      <h3>학위</h3>
-      <p>
-        <i class="fas fa-graduation-cap"></i> 정치외교학과
-      </p>
-      <p>전북대학교</p>
-      <p>
-        <i class="fas fa-graduation-cap"></i> IT정보공학과
-      </p>
-      <p>전북대학교</p>
     </div>
-  </div>
+
+    <div class="section">
+        <h2>학위</h2>
+        <ul>
+            <li>B.S. in Computer Science, 전북대학교, 2022 - Present</li>
+        </ul>
+    </div>
 </div>
-  
+
+</body>
+</html>
