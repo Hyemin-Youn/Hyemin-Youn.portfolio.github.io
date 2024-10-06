@@ -1,5 +1,5 @@
 ---
-title: 
+title: "About Hyemin Youn"
 date: 2023-10-05
 type: landing
 
@@ -11,65 +11,44 @@ sections:
     content:
       title: "About Hyemin Youn"
       text: |
-        Hello! I am Hyemin Youn, currently pursuing double majors in Political Science and IT Information Engineering at Jeonbuk National University. Along with my studies, I am growing my interest in development through various projects.
+        Hello! I am Hyemin Youn, a double major in Political Science & Diplomacy and IT Information Engineering at Chonbuk National University. I am passionate about development and continuously growing through various projects.
+
+        After completing a Database course in the spring semester of 2024, I attended the Big Data Job Bootcamp in July. There, I gained hands-on experience with databases and developed a dream of becoming a DBA. I am committed to studying ERD, MongoDB, RDBMS, and NoSQL.
+
+        Currently, I am taking courses in Web Service Design, Data Communications, C++ Programming, Discrete Mathematics, and Computer Engineering Overview.
 
   # Biography section
   - block: biography
     content:
-      text: |-
-        <div class="profile-container">
-          <!-- Profile Image -->
-          <div class="profile-image">
-            <img src="/avatar.jpg" alt="Profile Image" style="width: 150px; border-radius: 50%;">
-          </div>
+      text: |
         
-          <!-- Name and Position -->
+          <!-- Name and position -->
           <div class="profile-info">
             <h2>Hyemin Youn</h2>
             <p>Student</p>
-            <p>Jeonbuk National University, Political Science and IT Information Engineering (Double Major)</p>
+            <p>Chonbuk National University, Political Science & Diplomacy and IT Information Engineering (Double Major)</p>
         
-            <!-- Social Icons -->
-            <div class="profile-icons" style="margin-top: 10px;">
-              <a href="mailto:hyemin9973@gmail.com" class="icon" style="margin-right: 10px;">
-                <i class="fas fa-envelope"></i>
-              </a>
-              <a href="/uploads/pygame.pdf" class="icon" style="margin-right: 10px;">
-                <i class="fas fa-graduation-cap"></i>
-              </a>
-              <a href="/uploads/calculator.pdf" class="icon" style="margin-right: 10px;">
-                <i class="fas fa-id-card"></i>
-              </a>
-              <a href="/uploads/api.pdf" class="icon">
-                <i class="fas fa-file"></i>
-              </a>
-            </div>
-          </div>
           
-          <!-- Interests and Education -->
+          <!-- Interests and Degrees -->
           <div class="profile-details" style="display: flex; justify-content: space-around; margin-top: 20px;">
             <!-- Interests -->
             <div class="profile-interests">
               <h3>Interests</h3>
               <ul>
                 <li>Artificial Intelligence (AI)</li>
-                <li>Cloud Computing</li>
-                <li>Development (Development & Deployment)</li>
+                <li>Cloud</li>
+                <li>Development & Deploy</li>
               </ul>
             </div>
-        
-            <!-- Education -->
+
+            <!-- Degrees -->
             <div class="profile-education">
-              <h3>Education</h3>
-              <p>
-                <i class="fas fa-graduation-cap"></i> Political Science
-              </p>
-              <p>Jeonbuk National University</p>
-              <p>
-                <i class="fas fa-graduation-cap"></i> IT Information Engineering
-              </p>
-              <p>Jeonbuk National University</p>
+              <h3>Degrees</h3>
+              <p><i class="fas fa-graduation-cap"></i> B.S. in Political Science & Diplomacy (Expected 2024)</p>
+              <p>Chonbuk National University</p>
+
+              <p><i class="fas fa-graduation-cap"></i> B.S. in IT Information Engineering (Expected 2025)</p>
+              <p>Chonbuk National University</p>
             </div>
           </div>
-        </div>
----
+        
