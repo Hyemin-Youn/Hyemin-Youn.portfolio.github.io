@@ -46,7 +46,6 @@ sections:
               <h3>Degrees</h3>
               <p><i class="fas fa-graduation-cap"></i> B.S. in Political Science & Diplomacy </p>
               <p>Chonbuk National University</p>
-
               <p><i class="fas fa-graduation-cap"></i> B.S. in IT Information Engineering </p>
               <p>Chonbuk National University</p>
             </div>

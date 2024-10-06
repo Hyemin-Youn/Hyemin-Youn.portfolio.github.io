@@ -46,9 +46,7 @@ sections:
               <h3>학위</h3>
               <p><i class="fas fa-graduation-cap"></i> 정치외교학 학사</p>
               <p>전북대학교</p>
-
               <p><i class="fas fa-graduation-cap"></i> IT정보공학 학사</p>
               <p>전북대학교</p>
             </div>
           </div>
----
