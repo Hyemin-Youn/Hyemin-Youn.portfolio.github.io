@@ -9,8 +9,8 @@ design:
 sections:
   - block: features
     content:
-      title: <span style="font-size:125%">Hyemin-Youn portfolio homepage</span>
-      text: <br><span style="font-size:100%;">Welcom to visit Hyemin-Youn Portfolio page😃</span> 
+      title: <span style="font-size:125%">Hyemin-Youn Portfolio Homepage</span>
+      text: <br><span style="font-size:100%;">Welcome to Hyemin-Youn's Portfolio Page 😃</span> 
       
   - block: biography
     content:
@@ -40,31 +40,31 @@ sections:
       title: More Projects
       text: |-
         <br>
-        <!-- 카드 레이아웃 시작 -->
+        <!-- Card layout starts -->
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-          <!-- 첫 번째 카드 -->
+          <!-- First card -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="/images/german.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
-            <h3>클라이밍</h3>
+            <img src="/images/german.jpg" alt="Climbing Image" style="width: 100%; border-radius: 10px;">
+            <h3>Climbing</h3>
             <p>Brief description of Project 1.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
-          <!-- 두 번째 카드 -->
+          <!-- Second card -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="/images/eng.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>음악 듣기</h3>
+            <img src="/images/eng.jpg" alt="Music Listening" style="width: 100%; border-radius: 10px;">
+            <h3>Listening to Music</h3>
             <p>Brief description of Project 1.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
-          <!-- 세 번째 카드 -->
+          <!-- Third card -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="/images/researchpaper.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>기타 연주</h3>
+            <img src="/images/researchpaper.jpg" alt="Guitar Playing" style="width: 100%; border-radius: 10px;">
+            <h3>Playing Guitar</h3>
             <p>Brief description of Project 1.</p>
             <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
           </div>
         </div>
-        <!-- 카드 레이아웃 끝 -->
+        <!-- Card layout ends -->
 
   - block: awards
     content:
@@ -80,29 +80,29 @@ sections:
       title: More Projects
       text: |-
         <br>
-        <!-- 카드 레이아웃 시작 -->
+        <!-- Card layout starts -->
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-          <!-- 첫 번째 카드 -->
+          <!-- First card -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="images/climb.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
-            <h3>클라이밍</h3>
+            <img src="/images/climb.jpg" alt="Climbing Image" style="width: 100%; border-radius: 10px;">
+            <h3>Climbing</h3>
             <p></p>
             <a></a>
           </div>
-          <!-- 두 번째 카드 -->
+          <!-- Second card -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="images/music.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>음악 듣기</h3>
+            <img src="/images/music.jpg" alt="Music Listening Image" style="width: 100%; border-radius: 10px;">
+            <h3>Listening to Music</h3>
             <p></p>
             <a></a>
           </div>
-          <!-- 세 번째 카드 -->
+          <!-- Third card -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
-            <img src="images/guitar.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
-            <h3>기타 연주</h3>
+            <img src="/images/guitar.jpg" alt="Guitar Playing Image" style="width: 100%; border-radius: 10px;">
+            <h3>Playing Guitar</h3>
             <p></p>
             <a></a>
           </div>
         </div>
-        <!-- 카드 레이아웃 끝 -->
+        <!-- Card layout ends -->
 ---
