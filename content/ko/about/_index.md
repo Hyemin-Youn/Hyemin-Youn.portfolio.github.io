@@ -15,7 +15,7 @@ sections:
 
   # Biography section
   - block: biography
-  content:
+    content:
     text: |
       <div class="profile-container">
         <!-- 프로필 사진 -->
