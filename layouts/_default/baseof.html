@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- 필수 메타 태그 -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
     <!-- Favicon 관련 태그 -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
@@ -8,15 +13,80 @@
     <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
     <link rel="shortcut icon" href="{{ "favicon.ico?v=2" | relURL }}">
 
-    <!-- 메타 태그 -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }}</title>
+    <!-- 스타일시트 추가 -->
+    <!-- <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}"> -->
 
     <!-- FontAwesome 및 기타 스타일 -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <style>
+        /* 기본적인 스타일 */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-top: 20px;
+        }
+
+        p {
+            text-align: center;
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* FAB 아이콘 스타일 */
+        .fab-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .fab {
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            border-radius: 50%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .fab:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
+    <!-- 페이지 헤더 -->
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <p>Welcome to my portfolio website!</p>
+    </header>
+
+    <!-- 페이지 내용 -->
+    <main>
+        {{ block "main" . }}
+        {{ .Content }}
+        {{ end }}
+    </main>
+
+    <!-- FAB 버튼 -->
     <div class="fab-container">
         <a href="#" class="fab"><i class="fas fa-home"></i></a>
         <a href="#" class="fab"><i class="fas fa-envelope"></i></a>
@@ -26,6 +96,7 @@
         <a href="#" class="fab"><i class="fas fa-info-circle"></i></a>
     </div>
 
-    <!-- 추가적인 콘텐츠 및 스크립트 -->
+    <!-- 추가 스크립트 -->
+    <!-- <script src="{{ "js/scripts.js" | relURL }}"></script> -->
 </body>
 </html>
