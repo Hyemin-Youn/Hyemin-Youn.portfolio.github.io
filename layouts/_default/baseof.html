@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+
+    <!-- Favicon 관련 태그 추가 -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+    <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+    <link rel="shortcut icon" href="{{ "favicon.ico?v=2" | relURL }}">
+
+    <!-- 추가적인 스타일 및 스크립트 -->
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    <!-- Header -->
+    {{ partial "header.html" . }}
+
+    <!-- Main Content -->
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <!-- FAB Icon (optional) -->
+    {{ partial "fab.html" . }}
+
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+
+    <!-- 추가적인 스크립트 -->
+    {{ block "scripts" . }}{{ end }}
+</body>
+</html>
