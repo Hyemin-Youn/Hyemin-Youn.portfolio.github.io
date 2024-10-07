@@ -1,5 +1,6 @@
 title: 윤혜민의 포트폴리오 # Website name
-baseURL: 'https://hyemin-youn.github.io/Hyemin-Youn.github.io/' # Website URL
+baseURL: baseURL = "https://hyemin-youn.github.io/"
+ # Website URL
 
 ############################
 ## LANGUAGE
