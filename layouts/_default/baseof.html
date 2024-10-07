@@ -1,46 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="favicon.ico" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
-
-    <!-- Tailwind CSS 외부 CDN 로드 -->
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    
+    <!-- Favicon 관련 태그 추가 -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
-    <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-</head>
-<body class="bg-gray-100 text-gray-900">
-    <div class="container mx-auto text-center">
-        <h1 class="text-3xl font-bold">Hyemin-Youn Portfolio</h1>
+    <link rel="icon" type="/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+    <link rel="icon" type="/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+    <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+    <link rel="shortcut icon" href="https://hyemin-youn.github.io//favicon.ico?v=2">
+    <link rel="icon" sizes="16x16 32x32" href="/favicon.ico?v=2">
 
-        <!-- 여기에 원래 넣고자 했던 콘텐츠 추가 -->
-        <div class="mt-6">
-            <img src="/images/background.jpg" alt="Background Image" class="mx-auto">
-            <p class="mt-4 text-lg">윤혜민의 포트폴리오에 오신 것을 환영합니다!</p>
-            <!-- 추가 콘텐츠 예시 -->
-            <div class="mt-8">
-                <div class="grid grid-cols-3 gap-4">
-                    <!-- 카드 1 -->
-                    <div class="bg-white shadow-lg p-4 rounded-lg">
-                        <h3 class="text-xl font-semibold">Project 1</h3>
-                        <p>프로젝트 설명</p>
-                    </div>
-                    <!-- 카드 2 -->
-                    <div class="bg-white shadow-lg p-4 rounded-lg">
-                        <h3 class="text-xl font-semibold">Project 2</h3>
-                        <p>프로젝트 설명</p>
-                    </div>
-                    <!-- 카드 3 -->
-                    <div class="bg-white shadow-lg p-4 rounded-lg">
-                        <h3 class="text-xl font-semibold">Project 3</h3>
-                        <p>프로젝트 설명</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <!-- FontAwesome 및 기타 스타일 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="fab-container">
+        <a href="#" class="fab"><i class="fas fa-home"></i></a>
+        <a href="#" class="fab"><i class="fas fa-envelope"></i></a>
+        <a href="#" class="fab"><i class="fas fa-phone"></i></a>
+        <a href="#" class="fab"><i class="fas fa-user"></i></a>
+        <a href="#" class="fab"><i class="fas fa-cog"></i></a>
+        <a href="#" class="fab"><i class="fas fa-info-circle"></i></a>
     </div>
+
+    <!-- 추가적인 콘텐츠 및 스크립트 -->
 </body>
-</html>
+</html> 
