@@ -18,7 +18,7 @@ sections:
         현재는 웹서비스설계, 데이터통신, C++프로그래밍, 이산수학, 컴퓨터공학총론을 수강 중입니다.
 
   # Biography section
-  - block: biography
+  - block: 
     content:
       text: |
           <div class="profile-header">
