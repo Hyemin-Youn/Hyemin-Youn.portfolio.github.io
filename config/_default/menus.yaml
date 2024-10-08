@@ -6,7 +6,7 @@ main:
     url: about
     weight: 20
   - name: Project
-    url: 'https://hyemin-youn.github.io/project'
+    url: 'https://hyemin-youn.github.io/project/'
     weight: 30
 
   #parent-child
