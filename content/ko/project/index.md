@@ -19,6 +19,6 @@ sections:
   - block: awards
     content:
       title: 프로젝트를 소개합니다~!~!
-      text: |-
+      text: 그림 아래의 "증서 보기" 하이퍼링크를 누르시면 프로젝트 pdf문서와 연동됩니다. 프로젝트 설명을 자세히 볼 수 있습니다.
         
 ---

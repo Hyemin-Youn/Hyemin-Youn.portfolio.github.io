@@ -19,6 +19,6 @@ sections:
   - block: awards
     content:
       title: Let me introduce my projects
-      text: |-
+      text: Click the "See_certificate" button. Then you can see through all the details about the each project.
         
 ---
