@@ -12,23 +12,9 @@
     <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
     <link rel="shortcut icon" href="{{ "favicon.ico?v=2" | relURL }}">
 
-    <!-- 추가적인 스타일 및 스크립트 -->
-    {{ block "head" . }}{{ end }}
+    
 </head>
 <body>
-    <!-- Header -->
-    {{ partial "header.html" . }}
-
-    <!-- Main Content -->
-    <main>
-        {{ block "main" . }}{{ end }}
-    </main>
-
-    <!-- FAB Icon (optional) -->
-    {{ partial "fab.html" . }}
-
-
-    <!-- 추가적인 스크립트 -->
-    {{ block "scripts" . }}{{ end }}
+   
 </body>
 </html>
