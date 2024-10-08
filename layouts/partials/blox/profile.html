@@ -1,118 +1,102 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Hyemin Youn</title>
+    <title>이경수 | 교수 프로필</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
             margin: 0;
             padding: 0;
-        }
-
-        .container {
-            max-width: 900px;
-            margin: 50px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .profile {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-        }
-
-        .profile img {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
-        }
-
-        .profile h1 {
-            font-size: 2rem;
-            margin: 15px 0 10px;
-        }
-
-        .profile p {
-            color: #666;
-            margin: 0;
-            font-size: 1rem;
-        }
-
-        .contact-icons {
-            margin-top: 15px;
-        }
-
-        .contact-icons a {
-            margin: 0 10px;
-            color: #007bff;
-            font-size: 1.5rem;
-            text-decoration: none;
-        }
-
-        .contact-icons a:hover {
-            color: #0056b3;
-        }
-
-        .section {
-            margin-top: 30px;
-            text-align: left;
-        }
-
-        .section h2 {
-            font-size: 1.5rem;
-            margin-bottom: 15px;
+            background-color: #f4f4f4;
             color: #333;
         }
-
-        .section ul {
-            list-style-type: none;
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+        .profile-header {
+            text-align: center;
+        }
+        .profile-header h1 {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+        .profile-header p {
+            font-size: 16px;
+            color: #555;
+        }
+        .contact-icons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        .contact-icons a {
+            font-size: 24px;
+            color: #555;
+            text-decoration: none;
+        }
+        .contact-icons a:hover {
+            color: #007bff;
+        }
+        .section-title {
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #007bff;
+            display: inline-block;
+        }
+        .info-list {
+            list-style: none;
             padding: 0;
         }
-
-        .section ul li {
-            margin-bottom: 10px;
-            font-size: 1rem;
-        }
-
-        .section ul li::before {
-            content: "•";
-            color: #007bff;
-            margin-right: 10px;
+        .info-list li {
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
 
-<!-- <div class="container">
-    <div class="profile">
-        <img src="/images/avatar.jpg" alt="Hyemin Youn Profile Picture">
-        <h1>윤혜민</h1>
-        <p>전북대학교 대학생</p>
-
+<div class="container">
+    <div class="profile-header">
+        <img src="profile-image.jpg" alt="이경수 교수님 사진" class="profile-img">
+        <h1>이경수</h1>
+        <p>조교수, 전북대학교 컴퓨터인공지능학부</p>
         <div class="contact-icons">
-            <a href="mailto:hyemin9973@gmail.com">✉</a>
-            <a href="https://github.com/hyemin-youn">🐙</a>
-            <a href="https://linkedin.com/in/hyemin-youn">🔗</a>
+            <a href="mailto:email@example.com"><img src="email-icon.png" alt="Email"></a>
+            <a href="https://scholar.google.com" target="_blank"><img src="google-scholar-icon.png" alt="Google Scholar"></a>
+            <a href="https://orcid.org" target="_blank"><img src="orcid-icon.png" alt="ORCID"></a>
+            <a href="cv.pdf" target="_blank"><img src="cv-icon.png" alt="CV"></a>
         </div>
-    </div> -->
-
-    <div class="section">
-        <h2>관심 분야</h2>
-        <ul>
-            <li>웹 개발 (Frontend & Backend)</li>
-            <li>빅 데이터 분석</li>
-            <li>인공지능 및 머신러닝</li>
-            <li>프로젝트 매니지먼트</li>
-        </ul>
     </div>
 
+    <h2 class="section-title">관심분야</h2>
+    <ul class="info-list">
+        <li>인공지능 (AI)</li>
+        <li>Vision & Language</li>
+        <li>의료수학 (Medical Mathematics)</li>
+        <li>항공우주 (Aerospace)</li>
+        <li>컨텐츠 (Contents)</li>
+        <li>개발 (Development & Deploy)</li>
+    </ul>
+
+    <h2 class="section-title">학위</h2>
+    <ul class="info-list">
+        <li>Integrated M.S. & Ph.D. in 전기전자컴퓨터공학과, 2018 - 2023 (대구경북과학기술원)</li>
+        <li>B.S. in 전산전자공학부, 2014 - 2018 (한동대학교)</li>
+    </ul>
+</div>
 
 </body>
 </html>
