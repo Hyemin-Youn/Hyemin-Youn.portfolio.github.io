@@ -18,33 +18,10 @@ sections:
         현재는 웹서비스설계, 데이터통신, C++프로그래밍, 이산수학, 컴퓨터공학총론을 수강 중입니다.
 
   # Biography section
-  - block: 
+  - block: profile
     content:
       text: |
-          <div class="profile-header">
-          <img src="/avatar.jpg" alt="윤혜민 사진" class="profile-img">
-          <h1>윤혜민</h1>
-          <p>대학생, 전북대학교 정치외교학과,IT정보공학과(복수전공)</p>
-          <div class="contact-icons">
-            <a href="mailto:hyemin9973@gmail.com"><img src="brands/github" alt="Email"></a>
-            <a href="uploads/api.pdf" target="_blank"><img src="brands/github" alt="project1"></a>
-            <a href="/uploads/pygame.pdf" target="_blank"><img src="brands/github" alt="project2"></a>
-            <a href="/uploads/calculator.pdf" target="_blank"><img src="brands/github" alt="project3"></a>
-          </div>
-          </div>
-
-          <h2 class="section-title">관심분야</h2>
-          <ul class="info-list">
-          <li>인공지능 (AI)</li>
-          <li>클라우드</li>
-          <li>개발 (Development & Deploy)</li>
-          </ul>
-
-          <h2 class="section-title">학위</h2>
-          <ul class="info-list">
-          <li>B.S. in 정치외교학과, IT정보공학과, 2021 - 2025 (전북대학교)</li>
-          </ul>
-          </div>
+          
  
 
 ---
