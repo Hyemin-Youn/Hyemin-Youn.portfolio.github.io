@@ -1,14 +1,23 @@
 <header>
-    <div class="container">
-      <div style="text-align: center; padding: 50px 0;">
-        <!-- 페이지 제목 -->
-        <h1>{{ .Title }}</h1>
-  
-        <!-- 페이지 설명이 있을 경우 표시 -->
-        {{ if .Description }}
-        <p>{{ .Description }}</p>
-        {{ end }}
-      </div>
+  <div class="container">
+    <div style="text-align: center; padding: 50px 0;">
+      <!-- 페이지 제목 -->
+      <h1>{{ .Title }}</h1>
+
+      <!-- 페이지 설명이 있을 경우 표시 -->
+      {{ if .Description }}
+      <p>{{ .Description }}</p>
+      {{ end }}
     </div>
-  </header>
-  
+
+    <!-- 네비게이션 메뉴 추가 -->
+    <nav>
+        <ul style="list-style: none; padding: 0; display: flex; justify-content: center; gap: 20px;">
+            <li><a href="/en/home" style="text-decoration: none;">Home</a></li>
+            <li><a href="/en/about" style="text-decoration: none;">About</a></li>
+            <li><a href="/en/project" style="text-decoration: none;">Projects</a></li>
+            <li><a href="/en/contact" style="text-decoration: none;">Contact</a></li>
+        </ul>
+    </nav>
+  </div>
+</header>
