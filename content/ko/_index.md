@@ -86,22 +86,22 @@ sections:
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
             <img src="images/climb.jpg" alt="Research Paper Image" style="width: 100%; border-radius: 10px;">
             <h3>클라이밍</h3>
-            <p>Brief description of Project 1.</p>
-            <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <p></p>
+            <a></a>
           </div>
           <!-- 두 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
             <img src="images/music.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>음악 듣기</h3>
-            <p>Brief description of Project 1.</p>
-            <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <p></p>
+            <a></a>
           </div>
           <!-- 세 번째 카드 -->
           <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; padding: 20px;">
             <img src="images/guitar.jpg" alt="Card Image" style="width: 100%; border-radius: 10px;">
             <h3>기타 연주</h3>
-            <p>Brief description of Project 1.</p>
-            <a href="#" style="color: #007bff; text-decoration: none;">Learn more</a>
+            <p></p>
+            <a></a>
           </div>
         </div>
         <!-- 카드 레이아웃 끝 -->
