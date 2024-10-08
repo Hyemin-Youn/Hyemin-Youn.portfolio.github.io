@@ -11,22 +11,17 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
     <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
     <link rel="shortcut icon" href="{{ "favicon.ico?v=2" | relURL }}">
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-    <!-- 추가적인 스타일 및 스크립트 -->
+
     {{ block "head" . }}{{ end }}
 </head>
 <body>
-    <!-- Header (사이트 상단의 메뉴 등) -->
-    {{ partial "header.html" . }}
+    <!-- Header 호출 -->
+    {{ partial "blox/header.html" . }}
 
-    <!-- Main Content (주요 콘텐츠) -->
+    <!-- Main Content -->
     <main>
         {{ block "main" . }}{{ end }}
     </main>
-
-    <!-- Footer (하단 푸터 영역, 필요 시 추가) -->
-    {{ partial "footer.html" . }}
 
     <!-- 추가적인 스크립트 -->
     {{ block "scripts" . }}{{ end }}
