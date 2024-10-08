@@ -12,9 +12,22 @@
     <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
     <link rel="shortcut icon" href="{{ "favicon.ico?v=2" | relURL }}">
 
-    
+    <!-- 추가적인 스타일 및 스크립트 -->
+    {{ block "head" . }}{{ end }}
 </head>
 <body>
-   
+    <!-- Header (사이트 상단의 메뉴 등) -->
+    {{ partial "header.html" . }}
+
+    <!-- Main Content (주요 콘텐츠) -->
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <!-- Footer (하단 푸터 영역, 필요 시 추가) -->
+    {{ partial "footer.html" . }}
+
+    <!-- 추가적인 스크립트 -->
+    {{ block "scripts" . }}{{ end }}
 </body>
 </html>
