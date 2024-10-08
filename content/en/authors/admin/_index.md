@@ -21,7 +21,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Chonbuk National University
+  - name: Jeonbuk National University
     url: https://www.jbnu.ac.kr/kor/
 
 # Social network links
