@@ -22,23 +22,34 @@ sections:
     content:
       text: |
         
-          <!-- 이름과 직책 -->
-          <div class="profile-info">
-            <h2>윤혜민</h2>
-            <p>대학생</p>
-            <p>전북대학교 정치외교학과, IT정보공학과(복수전공)</p>
-        
-          
-          <!-- 관심 분야 및 학위 -->
-          <div class="profile-details" style="display: flex; justify-content: space-around; margin-top: 20px;">
-            <!-- 관심 분야 -->
-            <div class="profile-interests">
-              <h3>관심 분야</h3>
-              <ul>
-                <li>인공지능 (AI)</li>
-                <li>클라우드</li>
-                <li>개발 (Development & Deploy)</li>
-              </ul>
-            </div>
+
+        <div class="container" style="text-align: center;">
+        <!-- 제목 및 설명 -->
+        <h2>Contact</h2>
+        <p>전북대학교 정치외교학과&IT정보공학과(복수전공) 21학번 윤혜민입니다. 메일이나 연락처로 편하게 연락주세요.</p>
+        <p>Hyemin-Youn : senior majoring computer engineering & political science. Feel free to contact via email or phone number. </p>
+        <!-- 연락처 정보 리스트 -->
+        <ul style="list-style: none; padding: 0;">
+            <li><strong><i class="fas fa-envelope"></i> Email: hyemin9973@gmail.com</strong></li>
+            <li><strong><i class="fas fa-phone"></i> Phone: +82-10-9973-5063</strong></li>
+            <li><strong><i class="fas fa-map-marker-alt"></i> Address: 전북특별자치도 전주시 덕진구 백제대로 567 (567, Baekje-daero, Deokjin-gu, Jeonju-si, Jeonbuk-do, Republic of Korea)</strong></li>
+        </ul>
+
+        <!-- OpenStreetMap 임베드 -->
+        <div class="map" style="text-align: center;">
+            <iframe 
+                width="425" 
+                height="350" 
+                frameborder="0" 
+                scrolling="no" 
+                marginheight="0" 
+                marginwidth="0" 
+                src="https://www.openstreetmap.org/export/embed.html?bbox=127.13398838043214%2C35.84556544874156%2C127.13649690151216%2C35.846753849866516&amp;layer=mapnik&amp;marker=35.84615966044353%2C127.13524264097214&amp;lang=ko" 
+                style="border: 1px solid black; display: inline-block;">
+            </iframe>
+            <br/>
+            <small><a href="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524">큰 지도 보기</a></small>
+        </div>
+
 
 ---
