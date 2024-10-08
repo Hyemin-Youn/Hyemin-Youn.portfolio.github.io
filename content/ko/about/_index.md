@@ -26,10 +26,10 @@ sections:
           <h1>윤혜민</h1>
           <p>대학생, 전북대학교 정치외교학과,IT정보공학과(복수전공)</p>
           <div class="contact-icons">
-            <a href="mailto:hyemin9973@gmail.com"><img src="at-symbol" alt="Email"></a>
-            <a href="uploads/api.pdf" target="_blank"><img src="<i class="fa fa-file" aria-hidden="true"></i>" alt="pdf"></a>
-            <a href="/uploads/pygame.pdf" target="_blank"><img src="<i class="fa fa-file" aria-hidden="true"></i>" alt="pdf"></a>
-            <a href="/uploads/calculator.pdf" target="_blank"><img src="<i class="fa fa-file" aria-hidden="true"></i>" alt="pdf"></a>
+            <a href="mailto:hyemin9973@gmail.com"><img src="brands/github" alt="Email"></a>
+            <a href="uploads/api.pdf" target="_blank"><img src="brands/github" alt="project1"></a>
+            <a href="/uploads/pygame.pdf" target="_blank"><img src="brands/github" alt="project2"></a>
+            <a href="/uploads/calculator.pdf" target="_blank"><img src="brands/github" alt="project3"></a>
           </div>
           </div>
 
