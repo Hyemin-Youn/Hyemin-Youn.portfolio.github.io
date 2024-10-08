@@ -22,6 +22,9 @@ sections:
     content:
       text: |
          
+            <div class="profile-header">
+            <img src="/avatar.jpg" alt="윤혜민 사진" class="profile-img">
+         
             <!-- 이름과 직책 -->
             <div class="profile-info">
             <h2>윤혜민</h2>
