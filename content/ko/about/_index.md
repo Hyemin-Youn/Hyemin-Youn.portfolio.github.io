@@ -22,15 +22,15 @@ sections:
     content:
       text: |
          
-          <!-- 이름과 직책 -->
-          <div class="profile-info">
+            <!-- 이름과 직책 -->
+            <div class="profile-info">
             <h2>윤혜민</h2>
             <p>대학생</p>
             <p>전북대학교 정치외교학과, IT정보공학과(복수전공)</p>
         
           
-          <!-- 관심 분야 및 학위 -->
-          <div class="profile-details" style="display: flex; justify-content: space-around; margin-top: 20px;">
+            <!-- 관심 분야 및 학위 -->
+            <div class="profile-details" style="display: flex; justify-content: space-around; margin-top: 20px;">
             <!-- 관심 분야 -->
             <div class="profile-interests">
               <h3>관심 분야</h3>
