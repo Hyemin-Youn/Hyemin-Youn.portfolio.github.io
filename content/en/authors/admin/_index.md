@@ -36,8 +36,14 @@ profiles:
     url: https://www.linkedin.com/in/Hyemin-Youn
   - icon: brands/instagram
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
-    
-slider:
+
+awards:
+  - title: 공공데이터 API를 활용한 미세먼지 시각화 (Python)
+    url: https://hyemin-youn.github.io/project
+    certificate_url: "/uploads/api.pdf"
+    date: '2023-03-02'
+    summary: |
+      공공데이터 API를 사용하여 대한민국 전국을 8개 지역으로 나누어 미세먼지 농도를 시각화하는 프로젝트를 진행했습니다. 사용 언어는 Python입니다.
 
 education:
   - area: Department of Computer Science and Engineering
