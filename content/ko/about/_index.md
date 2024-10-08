@@ -21,35 +21,30 @@ sections:
   - block: biography
     content:
       text: |
-        
+          <div class="profile-header">
+          <img src="/avatar.jpg" alt="윤혜민 사진" class="profile-img">
+          <h1>윤혜민</h1>
+          <p>대학생, 전북대학교 정치외교학과,IT정보공학과(복수전공)</p>
+          <div class="contact-icons">
+            <a href="mailto:hyemin9973@gmail.com"><img src="email-icon.png" alt="Email"></a>
+            <a href="uploads/api.pdf" target="_blank"><img src="google-scholar-icon.png" alt="Google Scholar"></a>
+            <a href="/uploads/pygame.pdf" target="_blank"><img src="orcid-icon.png" alt="ORCID"></a>
+            <a href="/uploads/calculator.pdf" target="_blank"><img src="cv-icon.png" alt="CV"></a>
+          </div>
+          </div>
 
-        <div class="container" style="text-align: center;">
-        <!-- 제목 및 설명 -->
-        <h2>Contact</h2>
-        <p>전북대학교 정치외교학과&IT정보공학과(복수전공) 21학번 윤혜민입니다. 메일이나 연락처로 편하게 연락주세요.</p>
-        <p>Hyemin-Youn : senior majoring computer engineering & political science. Feel free to contact via email or phone number. </p>
-        <!-- 연락처 정보 리스트 -->
-        <ul style="list-style: none; padding: 0;">
-            <li><strong><i class="fas fa-envelope"></i> Email: hyemin9973@gmail.com</strong></li>
-            <li><strong><i class="fas fa-phone"></i> Phone: +82-10-9973-5063</strong></li>
-            <li><strong><i class="fas fa-map-marker-alt"></i> Address: 전북특별자치도 전주시 덕진구 백제대로 567 (567, Baekje-daero, Deokjin-gu, Jeonju-si, Jeonbuk-do, Republic of Korea)</strong></li>
-        </ul>
+          <h2 class="section-title">관심분야</h2>
+          <ul class="info-list">
+          <li>인공지능 (AI)</li>
+          <li>클라우드</li>
+          <li>개발 (Development & Deploy)</li>
+          </ul>
 
-        <!-- OpenStreetMap 임베드 -->
-        <div class="map" style="text-align: center;">
-            <iframe 
-                width="425" 
-                height="350" 
-                frameborder="0" 
-                scrolling="no" 
-                marginheight="0" 
-                marginwidth="0" 
-                src="https://www.openstreetmap.org/export/embed.html?bbox=127.13398838043214%2C35.84556544874156%2C127.13649690151216%2C35.846753849866516&amp;layer=mapnik&amp;marker=35.84615966044353%2C127.13524264097214&amp;lang=ko" 
-                style="border: 1px solid black; display: inline-block;">
-            </iframe>
-            <br/>
-            <small><a href="https://www.openstreetmap.org/?mlat=35.84616&amp;mlon=127.13524#map=19/35.84616/127.13524">큰 지도 보기</a></small>
-        </div>
-
+          <h2 class="section-title">학위</h2>
+          <ul class="info-list">
+          <li>B.S. in 정치외교학과, IT정보공학과, 2021 - 2025 (전북대학교)</li>
+          </ul>
+          </div>
+ 
 
 ---
