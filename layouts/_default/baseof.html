@@ -17,7 +17,7 @@
 </head>
 <body>
     <!-- Header -->
-    {{ partial "header.html" . }}
+    {{ partial "/header.html" . }}
 
     <!-- Main Content -->
     <main>
@@ -28,7 +28,7 @@
     {{ partial "fab.html" . }}
 
     <!-- Footer -->
-    <!-- {{ partial "footer.html" . }} -->
+    {{ partial "footer.html" . }}
 
     <!-- 추가적인 스크립트 -->
     {{ block "scripts" . }}{{ end }}
