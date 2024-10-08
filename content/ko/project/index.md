@@ -18,7 +18,7 @@ sections:
 
   - block: awards
     content:
-      title: Featured Projects
+      title: 프로젝트를 소개합니다~!~!
       text: |-
         
 ---

@@ -18,7 +18,7 @@ sections:
 
   - block: awards
     content:
-      title: Featured Projects
+      title: Let me introduce my projects
       text: |-
         
 ---
