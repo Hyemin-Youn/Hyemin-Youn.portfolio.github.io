@@ -80,21 +80,21 @@ languages:
 awards:
   - title: 공공데이터 API를 활용한 미세먼지 시각화 (Python)
     url: https://hyemin-youn.github.io/project
-    certificate_url: "/uploads/api.pdf"
+    see more: "/uploads/api.pdf"
     date: '2023-03-02'
     summary: |
       공공데이터 API를 사용하여 대한민국 전국을 8개 지역으로 나누어 미세먼지 농도를 시각화하는 프로젝트를 진행했습니다. 사용 언어는 Python입니다.
       <img src="/images/game.jpg" alt="미세먼지 시각화" style="width:100%; border-radius: 10px;">
   - title: 파이썬 Pygame을 사용한 두더지 피하기 게임 (Python)
     url: https://hyemin-youn.github.io/project
-    certificate_url: "/uploads/pygame.pdf"
+    see more: "/uploads/pygame.pdf"
     date: '2023-09-03'
     summary: |
       파이썬의 Pygame 라이브러리를 사용하여 플레이어가 화살표 키로 캐릭터를 움직여 두더지를 피하는 게임을 만들었습니다.
       <img src="/images/api.jpg" alt="두더지 피하기 게임" style="width:100%; border-radius: 10px;">
   - title: 사칙연산 계산기 프로그램 (C언어)
     url: https://hyemin-youn.github.io/project
-    certificate_url: "/uploads/calculator.pdf"
+    see more: "/uploads/calculator.pdf"
     date: '2024-03-02'
     summary: |
       C 언어를 배우고, 콘솔 입력을 기반으로 사칙연산을 수행하는 계산기 프로그램을 개발했습니다.
