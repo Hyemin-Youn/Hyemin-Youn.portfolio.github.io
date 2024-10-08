@@ -101,5 +101,12 @@ awards:
       <img src="/images/calculator.jpg" alt="Calculator Program" style="width:100%; border-radius: 10px;">
 ---
 
-Welcome to Hyemin Youn's portfolio page!
-My primary major is Political Science and Diplomacy, and since 2023, I have been studying Computer Science as a dual degree at Chonbuk National University.
+
+Welcome to Hyemin Youn's Portfolio Page!
+Name: Hyemin Youn
+Affiliation: Jeonbuk National University
+Majors: Political Science & Diplomacy, IT Information Engineering
+Related Projects: Fine Dust Map Visualization, Mole Catching Game, Arithmetic Calculator Program
+
+I entered Jeonbuk National University in 2021, majoring in Political Science & Diplomacy. During a course called "Political Research Methodology," which focused on election statistics, I became to learn R programming for the first time. This experience let me have an interest in data processing and coding. In 2023, I began to do double majoring in IT Information Engineering to further explore these fields.
+
