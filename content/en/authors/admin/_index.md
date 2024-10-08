@@ -39,22 +39,22 @@ profiles:
 
 education:
   - area: Department of Computer Science and Engineering
-    institution: Chonbuk National University
+    institution: Jeonbuk National University
     date_start: 2023-03-02
     date_end: 2025-08-31
     summary: |
-      I am pursuing a dual degree in IT Information Engineering at Chonbuk National University.
+      I am pursuing a dual degree in IT Information Engineering at Jeonbuk National University.
     button:
-      text: 'Chonbuk National University Computer Science & AI'
+      text: 'Jeonbuk National University Computer Science & AI'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
   - area: Department of Political Science and Diplomacy
-    institution: Chonbuk National University
+    institution: Jeonbuk National University
     date_start: 2021-03-02
     date_end: 2024-06-21
     summary: |
-      I am studying Political Science and Diplomacy at Chonbuk National University.
+      I am studying Political Science and Diplomacy at Jeonbuk National University.
     button:
-      text: 'Chonbuk National University Political Science & Diplomacy'
+      text: 'Jeonbuk National University Political Science & Diplomacy'
       url: 'https://pol.jbnu.ac.kr/pol/index.do'
   
 work:
