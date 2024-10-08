@@ -36,6 +36,8 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
 
+slider:
+
 # 교육
 education:
   - area: 컴퓨터공학과

@@ -36,6 +36,8 @@ profiles:
     url: https://www.linkedin.com/in/Hyemin-Youn
   - icon: brands/instagram
     url: https://www.instagram.com/yunemin__?igsh=MWMwZ3JvbmJmZ2JoYw%3D%3D&utm_source=qr
+    
+slider:
 
 education:
   - area: Department of Computer Science and Engineering
