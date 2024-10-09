@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
 
     <!-- Favicon 관련 태그 추가 -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
@@ -12,9 +12,19 @@
     <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
     <link rel="shortcut icon" href="{{ "favicon.ico?v=2" | relURL }}">
 
-
+    {{ block "head" . }}{{ end }}
 </head>
 <body>
+    <!-- Header 호출 -->
+    {{ partial "blox/header.html" . }}
+
+    <!-- Main Content -->
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <!-- 추가적인 스크립트 -->
+    {{ block "scripts" . }}{{ end }}
 
 
 </body>
