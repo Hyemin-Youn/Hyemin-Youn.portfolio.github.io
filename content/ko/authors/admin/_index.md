@@ -38,7 +38,7 @@ profiles:
 
 awards:
   - title: 공공데이터 API를 활용한 미세먼지 시각화 (Python)
-    url: https://hyemin-youn.github.io/project
+    url: https://hyemin-youn.github.io/project/
     certificate_url: "/uploads/api.pdf"
     date: '2023-03-02'
     summary: |
