@@ -1,0 +1,13 @@
+---
+title: "My Post Title"
+date: 2024-10-09
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
+
+params:
+  description: "Your website description"
+  author: "Your Name"
+  og_image: "/images/대표이미지.jpg"  # 대표 이미지 경로
+
+---

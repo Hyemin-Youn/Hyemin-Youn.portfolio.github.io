@@ -42,6 +42,12 @@ header:
     show_theme_chooser: true
     show_language: true
     show_logo: true
+
+params:
+  description: "웹사이트 대표 이지"
+  author: "Hyemin Youn"
+  og_image: "/avatar.jpg"  # 대표 이미지 경로
+
     
 
 
