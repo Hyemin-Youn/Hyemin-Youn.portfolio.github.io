@@ -6,8 +6,8 @@ sitemap:
   priority: 0.8
 
 params:
-  description: "웹사이트 대표 이지"
+  description: "윤혜민의 포트폴리오"
   author: "Hyemin Youn"
-  og_image: "/avatar.jpg"  # 대표 이미지 경로
+  og_image: "assets/media/logo.svg"  # 대표 이미지 경로
 
 ---
