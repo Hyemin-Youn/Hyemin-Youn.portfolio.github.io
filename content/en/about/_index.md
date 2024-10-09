@@ -26,8 +26,8 @@ sections:
             <p>Chonbuk National University, Political Science & Diplomacy and IT Information Engineering (Double Major)</p>
         
           
-          <!-- Interests and Degrees -->
-          <div class="profile-details" style="display: flex; justify-content: space-around; margin-top: 20px;">
+            <!-- Interests and Degrees -->
+            <div class="profile-details" style="display: flex; justify-content: space-around; margin-top: 20px;">
             <!-- Interests -->
             <div class="profile-interests">
               <h3>Interests</h3>
