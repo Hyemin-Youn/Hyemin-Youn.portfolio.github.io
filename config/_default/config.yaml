@@ -6,8 +6,8 @@ sitemap:
   priority: 0.8
 
 params:
-  description: "Your website description"
-  author: "Your Name"
-  og_image: "/images/대표이미지.jpg"  # 대표 이미지 경로
+  description: "웹사이트 대표 이지"
+  author: "Hyemin Youn"
+  og_image: "/avatar.jpg"  # 대표 이미지 경로
 
 ---
