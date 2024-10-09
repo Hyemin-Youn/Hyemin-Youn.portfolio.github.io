@@ -21,10 +21,7 @@ sections:
   - block: biography
     content:
       text: |
-        
-          <!-- Name and position -->
-          <div class="profile-info">
-            <h2>Hyemin Youn</h2>
+
             <p>Student</p>
             <p>Chonbuk National University, Political Science & Diplomacy and IT Information Engineering (Double Major)</p>
         

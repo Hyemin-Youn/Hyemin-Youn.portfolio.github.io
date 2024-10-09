@@ -22,9 +22,6 @@ sections:
     content:
       text: |
          
-            <!-- 이름과 직책 -->
-            <div class="profile-info">
-            <h2>윤혜민</h2>
             <p>대학생</p>
             <p>전북대학교 정치외교학과, IT정보공학과(복수전공)</p>
         
