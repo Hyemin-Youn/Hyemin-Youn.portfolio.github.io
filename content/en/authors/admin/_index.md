@@ -108,8 +108,6 @@ awards:
       After learning C programming, I developed a basic arithmetic calculator that performs operations based on user input in the console.
       <img src="/images/calculator.jpg" alt="Calculator Program" style="width:100%; border-radius: 10px;">
 ---
-
-
 Welcome to Hyemin Youn's Portfolio Page!
 
 Name: Hyemin Youn
